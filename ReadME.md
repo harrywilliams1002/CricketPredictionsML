@@ -28,6 +28,7 @@
 Modelling:
 - I chose to focus on two forms of international cricket, T20 and ODIs.
 - I felt that as strategy and play style can vary wildly in these two different formats it was wise to model them seperately.
+- All match data was collected from Crichseet, a collection of projects which collectively provide data for various aspects of cricket. The current projects provide ball-by-ball match data for a wide variety of match types.
 - I collected data from the jsons folders using the files created in my Data_Preprocessing_and_Collection (I have not included the T20_jsons and odi_jsons folders here as they are extremely large).
 - I decided to create three seperate models for each for each format for three seperate things:
 
