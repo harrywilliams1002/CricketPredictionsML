@@ -8,9 +8,9 @@ This mini project involved:
 
 ```Model Training and Evaluation```
 
-```Predictions!```
-
 ```Frontend and Backend Development```
+
+```Predictions!```
 
  The file structure is as follows:
 ```
