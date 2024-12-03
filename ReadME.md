@@ -1,7 +1,7 @@
  I have created an application for predicting the scoring and outcomes of cricket matches, given certain scenarios.
 
  The project structure is as follows:
-'''
+```
 ├── /CricketScorePredictor
 │   ├── /Flask_App
 │   │    ├──models -> Contains my exported models
@@ -23,7 +23,7 @@
 │   ├── /Scorers -> CSVs containing data used for tables in application regarding top total runs scorers
 │   ├── /Batting_First_ODI_example -> A video example of the application being used for an ODI match, batting first
 │   ├── /Chasing_T20_example -> A video example of the application being used for a T20 match, second innings
-'''
+```
 
 Modelling:
 - I chose to focus on two forms of international cricket, T20 and ODIs.
