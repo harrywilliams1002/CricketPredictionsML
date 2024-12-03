@@ -2,13 +2,13 @@
 
 This mini project involved:
 
-Data Collection and Preprocessing
+```Data Collection and Preprocessing```
 
-Feature Selection and Engineering
+```Feature Selection and Engineering```
 
-Model Training and Evaluation
+```Model Training and Evaluation```
 
-Predictions!
+```Predictions!```
 
  The file structure is as follows:
 ```
