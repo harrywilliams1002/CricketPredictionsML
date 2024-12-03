@@ -10,6 +10,8 @@ This mini project involved:
 
 ```Predictions!```
 
+```Frontend and backend development```
+
  The file structure is as follows:
 ```
 ├── /CricketScorePredictor
