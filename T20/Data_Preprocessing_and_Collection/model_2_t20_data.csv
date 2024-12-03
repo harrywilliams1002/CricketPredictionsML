@@ -1,0 +1,1663 @@
+match_id,batting_team,bowling_team,city,final_score,outcome,bat_first
+2024-07-30,India,Sri Lanka,Kandy,137,0,1
+2023-03-26,West Indies,South Africa,Centurion,258,0,1
+2019-10-24,Scotland,Bermuda,Dubai,204,1,1
+2024-11-07,Mongolia,China,Hangzhou,52,0,1
+2021-03-03,New Zealand,England,Wellington,96,0,1
+2016-03-24,Sri Lanka,Australia,Delhi,123,0,1
+2021-10-05,Estonia,Cyprus,Episkopi,102,0,1
+2022-07-01,Portugal,Spain,Ghent,77,0,1
+2022-08-23,Kuwait,Hong Kong,Al Amarat,151,0,1
+2009-06-14,Sri Lanka,Ireland,London,144,1,1
+2021-10-20,Swaziland,Seychelles,Kigali City,128,0,1
+2021-11-07,Belize,United States of America,Coolidge,64,0,1
+2018-02-07,England,Australia,Hobart,155,0,1
+2018-11-22,India,England,Antigua,112,0,1
+2019-06-18,Tanzania,Uganda,Kigali City,113,1,1
+2019-07-31,England,Australia,Bristol,139,1,1
+2022-02-13,United Arab Emirates,Ireland,Al Amarat,178,1,1
+2022-05-16,Uganda,Nepal,Kirtipur,102,1,1
+2024-02-16,United Arab Emirates,Thailand,Kuala Lumpur,70,1,1
+2022-12-04,New Zealand,Bangladesh,Dunedin,148,1,1
+2024-08-11,Norway,Guernsey,Oslo,141,0,1
+2024-06-02,Kenya,Nigeria,Kigali City,115,1,1
+2024-03-30,South Africa,Sri Lanka,Potchefstroom,137,0,1
+2019-06-20,Denmark,Italy,Castel,158,1,1
+2016-03-23,South Africa,Ireland,Chennai,156,1,1
+2022-12-02,Netherlands,Thailand,Chiang Mai,73,0,1
+2012-02-22,England,New Zealand,Auckland,108,1,1
+2021-08-22,Finland,Sweden,Kerava,141,0,1
+2010-05-13,India,Australia,St Lucia,119,0,1
+2021-07-28,India,Sri Lanka,Colombo,132,0,1
+2023-08-31,Kuwait,China,Kuala Lumpur,83,1,1
+2019-12-07,Maldives,Nepal,Pokhara,8,0,1
+2023-07-12,New Zealand,Sri Lanka,Colombo,140,0,1
+2020-02-28,South Africa,Thailand,Canberra,195,1,1
+2024-05-24,Ireland,Netherlands,The Hague,161,1,1
+2023-07-23,Japan,Vanuatu,Port Moresby,131,1,1
+2014-04-03,Sri Lanka,West Indies,Mirpur,160,1,1
+2024-03-05,Kuwait,Bahrain,Kuala Lumpur,123,0,1
+2024-03-08,Nigeria,Namibia,Accra,111,1,1
+2022-07-13,Croatia,Sweden,Kerava,69,0,1
+2023-11-22,Zimbabwe,Namibia,Windhoek,132,0,1
+2023-02-12,Pakistan,India,Cape Town,149,0,1
+2021-10-22,Netherlands,Sri Lanka,Sharjah,44,0,1
+2024-08-21,Spain,Cyprus,Castel,152,1,1
+2024-03-09,Sri Lanka,Bangladesh,Sylhet,174,1,1
+2022-07-20,New Zealand,Ireland,Belfast,179,1,1
+2019-02-22,Malaysia,China,Bangkok,63,0,1
+2024-08-28,Denmark,Guernsey,Castel,158,0,1
+2022-05-13,Romania,Czech Republic,Marsa,193,1,1
+2017-09-12,Pakistan,ICC World XI,Lahore,197,1,1
+2021-01-29,Pakistan,South Africa,Durban,124,0,1
+2024-10-04,Indonesia,Philippines,Incheon,101,1,1
+2015-07-09,United Arab Emirates,Scotland,Edinburgh,109,0,1
+2023-04-25,United Arab Emirates,Uganda,Windhoek,120,1,1
+2019-10-26,Gibraltar,Spain,Murcia,98,0,1
+2022-11-24,Rwanda,Seychelles,Kigali City,122,1,1
+2022-10-27,India,Netherlands,Sydney,179,1,1
+2024-06-19,Cyprus,Estonia,Episkopi,125,1,1
+2022-12-18,Malaysia,Singapore,Bangi,207,1,1
+2022-03-24,Oman,Kuwait,Al Amarat,128,1,1
+2022-10-11,Pakistan,New Zealand,Christchurch,130,0,1
+2016-07-05,Sri Lanka,England,Southampton,140,0,1
+2024-08-22,Finland,Estonia,Castel,142,0,1
+2021-03-07,Sri Lanka,West Indies,Coolidge,131,0,1
+2023-02-19,West Indies,Pakistan,Paarl,116,1,1
+2018-06-09,Pakistan,India,Kuala Lumpur,72,0,1
+2023-07-15,Malta,Switzerland,Marsa,156,0,1
+2024-10-22,Kuwait,Myanmar,Singapore,136,1,1
+2022-07-18,Cyprus,Serbia,Kerava,125,0,1
+2024-03-11,Nigeria,Zimbabwe,Accra,74,0,1
+2019-02-03,Nepal,United Arab Emirates,Dubai,104,1,1
+2024-07-07,Indonesia,Bhutan,Bali,59,0,1
+2022-04-25,Uganda,Namibia,Windhoek,93,0,1
+2023-01-07,India,Sri Lanka,Rajkot,228,1,1
+2019-09-05,Namibia,Scotland,Arbroath,67,0,1
+2023-08-27,Rwanda,Uganda,Kigali City,126,0,1
+2023-06-30,Austria,Germany,Deventer,121,0,1
+2022-10-19,Scotland,Ireland,Hobart,176,0,1
+2022-09-14,Samoa,Vanuatu,Port Vila,120,0,1
+2019-09-18,Ireland,Netherlands,Dublin,181,0,1
+2023-09-25,India,Sri Lanka,Hangzhou,116,1,1
+2023-05-02,Uganda,Namibia,Windhoek,93,1,1
+2023-05-12,Sri Lanka,Bangladesh,Colombo,158,1,1
+2024-02-21,New Zealand,Australia,Wellington,215,0,1
+2022-06-09,Brazil,Nigeria,Kigali City,53,0,1
+2024-05-07,Sri Lanka,Scotland,Abu Dhabi,169,1,1
+2024-09-25,Ghana,Tanzania,Dar-es-Salaam,84,0,1
+2022-03-20,Qatar,United Arab Emirates,Al Amarat,75,0,1
+2016-03-18,South Africa,England,Mumbai,229,0,1
+2018-08-21,Mozambique,Lesotho,Gaborone,157,1,1
+2013-10-10,Australia,India,Rajkot,201,0,1
+2022-09-19,Scotland,Bangladesh,Abu Dhabi,77,0,1
+2016-03-31,West Indies,New Zealand,Mumbai,143,1,1
+2020-08-30,Belgium,Czech Republic,Walferdange,161,1,1
+2024-02-13,Kuwait,Myanmar,Kuala Lumpur,125,1,1
+2023-09-15,Qatar,Bahrain,Doha,138,1,1
+2022-02-24,Oman,Nepal,Al Amarat,87,0,1
+2018-11-13,Australia,New Zealand,Guyana,153,1,1
+2024-07-22,Sri Lanka,Malaysia,Dambulla,184,1,1
+2021-11-08,Bahamas,Argentina,North Sound,121,1,1
+2021-10-16,Seychelles,Ghana,Kigali City,95,0,1
+2018-06-06,Ireland,New Zealand,Dublin,136,0,1
+2010-05-11,West Indies,Australia,St Lucia,105,0,1
+2024-01-18,Zimbabwe,Sri Lanka,Colombo,82,0,1
+2023-10-08,Sierra Leone,Nigeria,Lagos,49,0,1
+2023-08-23,Malaysia,Hong Kong,Kuala Lumpur,68,0,1
+2017-11-01,India,New Zealand,Delhi,202,1,1
+2014-03-13,England,West Indies,Barbados,165,1,1
+2022-10-12,England,Australia,Canberra,178,1,1
+2012-10-02,India,South Africa,Colombo,152,1,1
+2016-03-17,England,Bangladesh,Bangalore,153,1,1
+2023-06-02,France,Germany,St Saviour,112,1,1
+2024-06-04,Cameroon,Malawi,Kigali City,88,0,1
+2023-07-20,Austria,Jersey,Edinburgh,104,0,1
+2023-09-10,Brazil,United States of America,Los Angeles,42,0,1
+2023-02-26,Panama,Bahamas,Buenos Aires,101,0,1
+2020-08-15,Germany,Austria,Lower Austria,129,1,1
+2023-07-28,Jersey,Denmark,Edinburgh,159,1,1
+2015-07-25,Ireland,Netherlands,Dublin,128,0,1
+2019-12-04,Nepal,Bangladesh,Pokhara,50,0,1
+2023-10-27,Namibia,Zimbabwe,Windhoek,138,0,1
+2020-09-26,Australia,New Zealand,Brisbane,138,1,1
+2024-09-13,Kenya,Rwanda,Nairobi,126,0,1
+2018-11-12,Bangladesh,England,St Lucia,76,0,1
+2021-09-03,Romania,Hungary,Ilfov County,195,1,1
+2018-06-17,Scotland,Ireland,Deventer,185,0,1
+2023-09-07,Japan,Indonesia,Port Vila,66,0,1
+2010-10-08,Zimbabwe,South Africa,Bloemfontein,168,0,1
+2024-09-07,Scotland,Australia,Edinburgh,149,0,1
+2010-09-07,Pakistan,England,Cardiff,89,0,1
+2022-04-27,Hong Kong,United Arab Emirates,Ajman,118,0,1
+2023-11-27,Zimbabwe,Rwanda,Windhoek,215,1,1
+2022-07-12,Cyprus,Isle of Man,Kerava,120,0,1
+2021-08-06,Bangladesh,Australia,Dhaka,127,1,1
+2019-10-31,Oman,Scotland,Dubai,167,0,1
+2024-06-14,Croatia,Czech Republic,Prague,191,1,1
+2022-08-04,Sri Lanka,South Africa,Birmingham,46,0,1
+2024-10-24,Gambia,Mozambique,Nairobi,142,0,1
+2022-01-24,Sri Lanka,Bangladesh,Kuala Lumpur,136,1,1
+2022-06-10,Austria,Germany,Krefeld,141,1,1
+2017-06-21,South Africa,England,Southampton,142,0,1
+2020-01-18,Ireland,West Indies,Basseterre,147,0,1
+2024-05-02,Bangladesh,India,Sylhet,117,0,1
+2009-06-08,Australia,Sri Lanka,Nottingham,159,0,1
+2021-11-18,Nepal,Qatar,Doha,164,1,1
+2016-01-22,Zimbabwe,Bangladesh,Khulna,180,1,1
+2007-09-20,Bangladesh,Pakistan,Cape Town,140,0,1
+2017-10-07,Australia,India,Ranchi,118,0,1
+2020-09-01,Pakistan,England,Manchester,190,1,1
+2018-10-29,Pakistan,Australia,Kuala Lumpur,97,0,1
+2021-05-26,Ireland,Scotland,Belfast,134,1,1
+2021-11-20,Kenya,Uganda,Kigali City,123,0,1
+2024-05-08,Japan,Mongolia,Sano,217,1,1
+2019-12-08,India,West Indies,Thiruvananthapuram,170,0,1
+2021-06-12,Rwanda,Nigeria,Kigali City,112,1,1
+2022-09-06,Scotland,Ireland,Edinburgh,126,0,1
+2023-09-01,South Africa,Australia,Durban,164,0,1
+2019-10-21,Scotland,Papua New Guinea,Dubai,146,1,1
+2024-07-27,Italy,Germany,Krefeld,119,1,1
+2024-07-10,India,Zimbabwe,Harare,182,1,1
+2024-09-29,Nepal,Oman,King City,176,1,1
+2024-06-15,Austria,Hungary,Rome,187,1,1
+2022-10-04,South Africa,India,Indore,227,1,1
+2020-03-01,South Africa,Pakistan,Sydney,136,1,1
+2019-05-22,Pakistan,South Africa,Benoni,172,0,1
+2023-10-02,United Arab Emirates,Namibia,Dubai,66,0,1
+2023-07-26,China,Malaysia,Kuala Lumpur,23,0,1
+2012-09-11,New Zealand,India,Chennai,167,1,1
+2024-04-15,United Arab Emirates,Oman,Al Amarat,142,0,1
+2010-05-03,Sri Lanka,Zimbabwe,Guyana,173,1,1
+2022-07-07,Bangladesh,West Indies,Providence,163,0,1
+2024-08-27,United States of America,Canada,The Hague,168,1,1
+2012-10-07,Australia,England,Colombo,142,1,1
+2024-02-11,Singapore,Myanmar,Bangi,87,0,1
+2014-09-01,South Africa,England,Chelmsford,89,0,1
+2024-04-14,Mexico,Costa Rica,Guacima,93,1,1
+2016-01-31,Scotland,Hong Kong,Hong Kong,161,1,1
+2021-11-17,Uganda,Nigeria,Kigali City,147,1,1
+2024-03-21,Zimbabwe,Kenya,Accra,196,1,1
+2024-07-20,Thailand,Malaysia,Dambulla,133,1,1
+2024-06-23,Jersey,Guernsey,Port  Soif,148,0,1
+2024-04-22,Indonesia,Mongolia,Bali,148,1,1
+2017-11-21,Australia,England,Canberra,178,0,1
+2019-10-19,Jersey,Nigeria,Abu Dhabi,184,1,1
+2024-08-30,Malaysia,Maldives,Kuala Lumpur,203,1,1
+2023-10-15,Luxembourg,Gibraltar,Gibraltar,165,1,1
+2022-02-11,Australia,Sri Lanka,Sydney,149,1,1
+2021-11-25,Malaysia,Hong Kong,Dubai,101,0,1
+2023-09-09,United Arab Emirates,Thailand,Kuala Lumpur,70,1,1
+2024-08-23,Malaysia,Hong Kong,Kuala Lumpur,101,0,1
+2024-06-09,Italy,Luxembourg,Spinaceto,166,1,1
+2010-05-06,South Africa,New Zealand,Barbados,170,1,1
+2020-09-21,England,West Indies,Derby,163,1,1
+2024-10-09,South Africa,Scotland,Dubai,166,1,1
+2024-04-17,Malaysia,Hong Kong,Al Amarat,140,0,1
+2023-09-08,Fiji,Cook Islands,Port Vila,88,0,1
+2024-08-24,Samoa,Vanuatu,Apia,145,1,1
+2019-09-03,Papua New Guinea,United States of America,Arbroath,133,1,1
+2018-09-21,Sri Lanka,India,Colombo,49,0,1
+2023-06-17,Botswana,Uganda,Nairobi,64,0,1
+2017-10-27,Sri Lanka,Pakistan,Abu Dhabi,124,0,1
+2022-09-23,England,Pakistan,Karachi,221,1,1
+2024-04-04,Australia,Bangladesh,Dhaka,155,1,1
+2024-01-26,Ireland,Zimbabwe,Harare,191,1,1
+2019-07-26,Kuwait,Qatar,Singapore,197,1,1
+2013-07-28,Pakistan,West Indies,St Vincent,135,1,1
+2024-05-10,Pakistan,Ireland,Dublin,182,0,1
+2024-10-23,Seychelles,Kenya,Nairobi,74,0,1
+2022-06-08,Ireland,South Africa,Dublin,104,0,1
+2007-09-15,New Zealand,Sri Lanka,Johannesburg,164,0,1
+2023-08-04,Malta,Greece,Ilfov County,90,0,1
+2005-02-17,Australia,New Zealand,Auckland,214,1,1
+2012-03-30,South Africa,India,Johannesburg,219,1,1
+2023-10-23,United Arab Emirates,Nepal,Kathmandu,164,0,1
+2021-08-14,Denmark,Sweden,Brondby,135,0,1
+2024-01-19,Pakistan,New Zealand,Christchurch,158,0,1
+2021-12-14,Pakistan,West Indies,Karachi,172,1,1
+2024-06-08,Netherlands,South Africa,New York,103,0,1
+2021-08-20,Ghana,Rwanda,Kigali City,166,1,1
+2011-06-25,England,Sri Lanka,Bristol,136,0,1
+2024-03-03,Namibia,Netherlands,Kirtipur,98,0,1
+2023-07-21,Austria,Germany,Edinburgh,83,0,1
+2024-04-02,Oman,Namibia,Al Amarat,137,1,1
+2021-04-20,Nepal,Netherlands,Kirtipur,206,0,1
+2019-09-29,Vanuatu,Malaysia,Kuala Lumpur,151,1,1
+2023-02-28,Cayman Islands,Bahamas,Buenos Aires,125,1,1
+2024-07-17,England,New Zealand,London,155,1,1
+2024-03-01,Qatar,Hong Kong,Doha,125,0,1
+2020-02-26,England,Thailand,Canberra,176,1,1
+2019-02-27,India,Australia,Bengaluru,190,0,1
+2023-10-05,Rwanda,Ghana,Lagos,121,0,1
+2024-09-06,Namibia,United Arab Emirates,Windhoek,102,0,1
+2016-08-28,West Indies,India,Lauderhill,143,0,1
+2016-12-04,India,Pakistan,Bangkok,121,1,1
+2014-01-11,New Zealand,West Indies,Auckland,189,1,1
+2023-09-03,Botswana,Lesotho,Gaborone,204,1,1
+2010-10-26,Pakistan,South Africa,Abu Dhabi,119,0,1
+2021-11-13,Panama,Bahamas,Coolidge,139,1,1
+2021-03-30,Australia,New Zealand,Napier,129,0,1
+2022-02-19,Nepal,Philippines,Al Amarat,218,1,1
+2019-10-23,Hong Kong,Jersey,Abu Dhabi,144,1,1
+2021-10-24,Gibraltar,Bulgaria,Marsa,177,0,1
+2012-09-08,England,South Africa,Chester-le-Street,118,0,1
+2022-11-16,Bahrain,Saudi Arabia,Al Amarat,170,1,1
+2009-06-12,Sri Lanka,Pakistan,London,150,1,1
+2016-01-17,Bangladesh,Zimbabwe,Khulna,167,1,1
+2023-12-09,Zimbabwe,Ireland,Harare,165,0,1
+2023-02-25,Isle of Man,Spain,Murcia,116,0,1
+2024-06-16,Ireland,Pakistan,Lauderhill,106,0,1
+2022-10-13,Sri Lanka,Pakistan,Sylhet,122,1,1
+2022-06-11,Brazil,Germany,Kigali City,117,1,1
+2016-03-12,Hong Kong,Scotland,Nagpur,127,0,1
+2023-05-05,Gibraltar,Malta,Gibraltar,176,1,1
+2020-03-06,Malaysia,Hong Kong,Bangkok,132,0,1
+2022-12-05,Cameroon,Nigeria,Kigali City,72,0,1
+2018-08-23,Mozambique,Namibia,Gaborone,25,0,1
+2021-04-14,South Africa,Pakistan,Centurion,203,0,1
+2010-10-31,Australia,Sri Lanka,Perth,133,0,1
+2023-08-17,New Zealand,United Arab Emirates,Dubai,155,1,1
+2023-09-05,England,New Zealand,Nottingham,175,0,1
+2022-04-30,Norway,Guernsey,Almeria,120,0,1
+2022-07-03,Singapore,Papua New Guinea,Singapore,203,0,1
+2024-10-06,Japan,Singapore,Sano,118,1,1
+2023-08-16,Ireland,Netherlands,Amstelveen,148,1,1
+2022-10-15,Japan,South Korea,Sano,218,1,1
+2019-08-13,Ireland,Thailand,Deventer,87,0,1
+2018-07-12,Netherlands,Uganda,Utrecht,118,0,1
+2022-09-18,Botswana,Ghana,Benoni,146,1,1
+2022-07-24,Austria,Luxembourg,Vantaa,139,1,1
+2019-08-05,Netherlands,United Arab Emirates,Amstelveen,136,0,1
+2024-05-25,England,Pakistan,Birmingham,183,1,1
+2013-01-19,South Africa,West Indies,St Lucia,113,0,1
+2020-02-02,South Africa,New Zealand,Mount Maunganui,116,0,1
+2021-07-09,Germany,France,Krefeld,132,1,1
+2024-02-15,Hong Kong,Japan,Mong Kok,155,1,1
+2024-08-25,Greece,Isle of Man,Marsa,90,0,1
+2007-09-12,Pakistan,Scotland,Durban,171,1,1
+2023-12-17,Uganda,Zimbabwe,Entebbe,79,0,1
+2023-09-27,United Arab Emirates,Namibia,Dubai,110,0,1
+2018-08-20,Malawi,Namibia,Gaborone,53,0,1
+2019-10-03,Singapore,Zimbabwe,Singapore,167,0,1
+2022-12-09,Ghana,Nigeria,Kigali City,127,0,1
+2023-05-07,Malta,Gibraltar,Gibraltar,165,1,1
+2022-06-15,Kenya,Brazil,Kigali City,184,1,1
+2022-03-21,United Arab Emirates,Kuwait,Al Amarat,158,1,1
+2018-06-20,New Zealand,South Africa,Taunton,216,1,1
+2022-07-19,Finland,Cyprus,Kerava,159,1,1
+2019-08-08,Ireland,Netherlands,Deventer,169,1,1
+2023-02-21,Bangladesh,South Africa,Cape Town,113,0,1
+2021-10-31,India,New Zealand,Dubai,110,0,1
+2022-07-06,Maldives,Malaysia,Bangi,57,0,1
+2022-05-11,Hungary,Bulgaria,Marsa,158,1,1
+2015-10-01,Pakistan,Bangladesh,Karachi,114,1,1
+2022-09-10,India,England,Chester-le-Street,132,0,1
+2022-06-17,Bahrain,Kuwait,Kuala Lumpur,40,0,1
+2024-08-19,Vanuatu,Fiji,Apia,157,1,1
+2020-12-22,New Zealand,Pakistan,Napier,173,0,1
+2018-07-10,Uganda,Ireland,Amstelveen,78,0,1
+2023-11-05,Nepal,Oman,Kirtipur,184,0,1
+2019-10-04,Malaysia,Vanuatu,Kuala Lumpur,206,1,1
+2017-01-15,Oman,Netherlands,Abu Dhabi,146,0,1
+2021-06-27,South Africa,West Indies,St George's,166,1,1
+2024-07-09,England,New Zealand,Brighton,89,1,1
+2022-06-20,Oman,Singapore,Kuala Lumpur,109,0,1
+2023-01-23,India,West Indies,East London,167,1,1
+2014-01-29,Australia,England,Hobart,213,1,1
+2016-09-09,Sri Lanka,Australia,Colombo,128,0,1
+2020-08-12,Germany,Austria,Lower Austria,165,1,1
+2024-03-07,Vanuatu,Kuwait,Kuala Lumpur,102,0,1
+2014-05-20,Sri Lanka,England,London,183,1,1
+2019-10-25,Canada,Oman,Abu Dhabi,144,0,1
+2022-02-18,Canada,Philippines,Al Amarat,216,1,1
+2021-03-20,India,South Africa,Lucknow,130,0,1
+2022-10-07,Thailand,United Arab Emirates,Sylhet,108,1,1
+2009-06-16,Sri Lanka,New Zealand,Nottingham,158,1,1
+2019-02-10,New Zealand,India,Hamilton,212,1,1
+2022-07-02,Belgium,Portugal,Waterloo,113,0,1
+2024-03-17,Tanzania,Nigeria,Accra,131,1,1
+2022-11-19,Canada,Saudi Arabia,Al Amarat,171,1,1
+2016-03-11,Bangladesh,Ireland,Dharamsala,94,0,1
+2022-08-02,England,South Africa,Birmingham,167,1,1
+2022-07-11,Hong Kong,Uganda,Bulawayo,87,0,1
+2007-09-24,India,Pakistan,Johannesburg,157,1,1
+2024-06-05,Uganda,Rwanda,Kigali City,100,1,1
+2022-10-29,New Zealand,Sri Lanka,Sydney,167,1,1
+2009-06-06,India,Bangladesh,Nottingham,180,1,1
+2022-11-22,St Helena,Lesotho,Kigali City,126,1,1
+2023-10-18,United Arab Emirates,Nepal,Kathmandu,140,0,1
+2024-03-22,England,New Zealand,Nelson,149,1,1
+2013-11-22,Pakistan,South Africa,Cape Town,176,1,1
+2024-04-25,Scotland,Uganda,Abu Dhabi,161,1,1
+2023-12-24,Indonesia,Philippines,Bali,119,0,1
+2022-06-28,Malaysia,Singapore,Singapore,137,0,1
+2018-12-22,West Indies,Bangladesh,Dhaka,190,1,1
+2022-09-17,Kenya,Tanzania,Benoni,155,0,1
+2018-11-09,West Indies,Bangladesh,Guyana,106,1,1
+2019-02-21,Thailand,Nepal,Bangkok,124,1,1
+2019-11-02,Papua New Guinea,Netherlands,Dubai,128,0,1
+2022-12-20,Tanzania,Rwanda,Kigali City,134,1,1
+2021-06-25,Serbia,Greece,Sofia,144,0,1
+2023-06-11,Botswana,Kenya,Nairobi,92,0,1
+2021-10-18,Namibia,Sri Lanka,Abu Dhabi,96,0,1
+2019-07-22,Malaysia,Kuwait,Singapore,162,1,1
+2019-09-16,West Indies,Australia,Bridgetown,97,0,1
+2018-03-20,New Zealand,West Indies,New Plymouth,134,1,1
+2014-04-01,Bangladesh,Australia,Mirpur,153,0,1
+2021-09-16,Nigeria,Kenya,Entebbe,133,1,1
+2019-03-24,Philippines,Vanuatu,Port Moresby,46,1,1
+2024-06-13,France,Luxembourg,Rome,145,1,1
+2024-09-10,Zimbabwe,United Arab Emirates,Windhoek,145,0,1
+2024-02-04,Singapore,Thailand,Bangkok,115,0,1
+2012-02-27,England,Pakistan,Abu Dhabi,129,1,1
+2023-09-30,Bermuda,Canada,Hamilton,181,1,1
+2024-09-15,Denmark,Luxembourg,Koge,93,1,1
+2021-11-28,Malaysia,Bhutan,Dubai,87,1,1
+2024-02-14,Hong Kong,China,Mong Kok,171,1,1
+2023-12-03,Bangladesh,South Africa,Benoni,149,1,1
+2024-04-26,Mozambique,Lesotho,Gaborone,128,1,1
+2022-10-16,United Arab Emirates,Netherlands,Geelong,111,0,1
+2023-09-12,Scotland,France,Almeria,204,1,1
+2024-08-31,Mongolia,Hong Kong,Kuala Lumpur,17,0,1
+2019-11-10,India,Bangladesh,Nagpur,174,1,1
+2019-06-17,Denmark,Norway,Castel,141,1,1
+2018-02-18,England,New Zealand,Hamilton,194,1,1
+2019-12-20,England,Pakistan,Kuala Lumpur,170,1,1
+2024-04-18,Thailand,Ireland,Dubai,79,0,1
+2020-01-31,England,India,Canberra,147,0,1
+2024-10-03,Oman,Canada,King City,82,0,1
+2023-08-08,West Indies,India,Providence,159,0,1
+2023-09-02,Malawi,Lesotho,Gaborone,189,1,1
+2021-11-02,Pakistan,Namibia,Abu Dhabi,189,1,1
+2023-10-04,Maldives,Kuwait,Doha,83,0,1
+2023-09-06,Kuwait,Myanmar,Kuala Lumpur,85,1,1
+2022-10-14,New Zealand,Pakistan,Christchurch,163,0,1
+2024-02-06,Singapore,Japan,Bangkok,176,1,1
+2021-11-26,Hong Kong,Bhutan,Dubai,109,1,1
+2021-09-11,Germany,Spain,Almeria,115,0,1
+2014-03-28,Australia,West Indies,Mirpur,178,0,1
+2022-07-09,Bulgaria,Serbia,Belgrade,154,0,1
+2019-03-15,United States of America,United Arab Emirates,Dubai,152,0,1
+2021-09-12,Rwanda,Eswatini,Gaborone,204,1,1
+2019-06-27,Thailand,Malaysia,Kuala Lumpur,127,0,1
+2023-06-01,Sweden,Germany,St Saviour,139,0,1
+2020-09-30,West Indies,England,Derby,41,0,1
+2020-02-23,South Africa,Australia,Port Elizabeth,158,1,1
+2023-03-14,Bangladesh,England,Dhaka,158,1,1
+2019-10-20,Papua New Guinea,Namibia,Dubai,197,1,1
+2021-11-10,England,New Zealand,Abu Dhabi,166,0,1
+2013-08-06,South Africa,Sri Lanka,Hambantota,163,0,1
+2008-08-04,Scotland,Netherlands,Belfast,107,0,1
+2023-03-11,Malaysia,Hong Kong,Mong Kok,95,0,1
+2022-08-07,England,New Zealand,Birmingham,110,0,1
+2019-11-08,England,New Zealand,Napier,241,1,1
+2023-12-06,England,India,Mumbai,197,1,1
+2024-05-03,Sri Lanka,United States of America,Abu Dhabi,123,1,1
+2023-12-31,Bangladesh,New Zealand,Mount Maunganui,110,0,1
+2024-02-29,Netherlands,Namibia,Kirtipur,247,1,1
+2022-11-17,Lesotho,Mali,Kigali City,138,1,1
+2022-11-09,New Zealand,Pakistan,Sydney,152,0,1
+2023-08-05,Romania,Malta,Ilfov County,197,1,1
+2023-06-18,Botswana,Rwanda,Nairobi,98,0,1
+2013-08-31,England,Australia,Chester-le-Street,195,1,1
+2019-09-01,United States of America,Bangladesh,Arbroath,46,0,1
+2019-08-24,Cayman Islands,United States of America,Hamilton,66,0,1
+2024-03-13,Papua New Guinea,Nepal,Mong Kok,171,1,1
+2023-11-26,India,Australia,Thiruvananthapuram,235,1,1
+2024-10-30,Kenya,Rwanda,Kigali City,95,1,1
+2021-06-26,Serbia,Romania,Sofia,115,0,1
+2009-12-12,Sri Lanka,India,Chandigarh,206,0,1
+2006-08-28,England,Pakistan,Bristol,144,0,1
+2021-09-02,Luxembourg,Bulgaria,Ilfov County,187,1,1
+2022-07-08,Luxembourg,Czech Republic,Prague,112,0,1
+2023-11-28,India,Australia,Guwahati,222,0,1
+2018-06-07,Thailand,Bangladesh,Kuala Lumpur,60,0,1
+2024-10-29,Rwanda,Kenya,Kigali City,115,1,1
+2014-10-26,Sri Lanka,South Africa,Colombo,132,0,1
+2009-12-09,Sri Lanka,India,Nagpur,215,1,1
+2022-08-06,New Zealand,Australia,Birmingham,144,0,1
+2013-03-08,West Indies,Sri Lanka,Colombo,122,1,1
+2024-09-24,Ghana,Lesotho,Dar-es-Salaam,133,1,1
+2023-12-29,New Zealand,Bangladesh,Mount Maunganui,72,0,1
+2023-09-21,India,Malaysia,Hangzhou,173,0,1
+2024-02-28,Netherlands,Nepal,Kirtipur,184,1,1
+2022-11-06,India,Zimbabwe,Melbourne,186,1,1
+2019-05-08,Mozambique,Rwanda,Harare,137,0,1
+2021-08-30,Thailand,Zimbabwe,Harare,134,1,1
+2016-02-28,Bangladesh,Sri Lanka,Mirpur,147,1,1
+2021-11-11,Pakistan,Australia,Dubai,176,0,1
+2016-03-26,New Zealand,Bangladesh,Kolkata,145,1,1
+2021-09-10,Spain,Germany,Almeria,128,0,1
+2019-03-16,United Arab Emirates,United States of America,Dubai,182,1,1
+2024-09-09,Myanmar,Singapore,Kuala Lumpur,45,0,1
+2019-06-26,Thailand,Maldives,Kuala Lumpur,130,0,1
+2020-02-21,Australia,South Africa,Johannesburg,196,1,1
+2020-09-28,England,West Indies,Derby,166,1,1
+2014-11-02,West Indies,Australia,Sydney,113,0,1
+2016-02-09,India,Sri Lanka,Pune,101,0,1
+2024-09-27,Ireland,South Africa,Abu Dhabi,171,0,1
+2019-11-07,Bangladesh,India,Rajkot,153,0,1
+2012-06-24,West Indies,England,Nottingham,172,0,1
+2019-05-06,Mozambique,Nigeria,Harare,93,0,1
+2018-02-16,New Zealand,Australia,Auckland,243,0,1
+2024-11-09,New Zealand,Sri Lanka,Dambulla,135,0,1
+2019-12-19,England,Pakistan,Kuala Lumpur,185,1,1
+2024-04-21,Indonesia,Mongolia,Bali,165,1,1
+2023-02-11,Cambodia,Singapore,Phnom Penh,26,0,1
+2023-08-06,India,West Indies,Providence,152,0,1
+2021-11-03,New Zealand,Scotland,Dubai,172,1,1
+2022-08-17,Kuwait,Bahrain,Al Amarat,186,1,1
+2016-02-24,India,Bangladesh,Dhaka,166,1,1
+2015-11-21,Hong Kong,Oman,Abu Dhabi,106,0,1
+2024-02-12,Saudi Arabia,Maldives,Bangkok,186,1,1
+2022-01-30,West Indies,England,Bridgetown,179,1,1
+2022-09-25,Australia,India,Hyderabad,186,0,1
+2022-10-17,Scotland,West Indies,Hobart,160,1,1
+2024-09-02,Hong Kong,Singapore,Kuala Lumpur,201,1,1
+2022-07-10,Austria,Czech Republic,Prague,146,0,1
+2018-12-20,Bangladesh,West Indies,Dhaka,211,1,1
+2022-09-15,Botswana,Uganda,Benoni,103,0,1
+2024-07-08,Croatia,Belgium,Krefeld,140,1,1
+2024-09-14,Cyprus,Serbia,Belgrade,90,1,1
+2019-07-23,Nepal,Qatar,Singapore,122,0,1
+2021-08-27,Germany,Netherlands,Murcia,71,0,1
+2022-07-31,Barbados,Australia,Birmingham,64,0,1
+2007-09-22,India,Australia,Durban,188,1,1
+2009-06-07,South Africa,Scotland,London,211,1,1
+2023-10-19,Hong Kong,Nepal,Kathmandu,94,0,1
+2024-03-19,England,New Zealand,Dunedin,160,1,1
+2023-12-23,Indonesia,Philippines,Bali,140,1,1
+2015-05-23,West Indies,Sri Lanka,Colombo,109,0,1
+2019-10-18,Singapore,Scotland,Dubai,168,1,1
+2017-03-30,Pakistan,West Indies,Trinidad,132,1,1
+2012-12-21,New Zealand,South Africa,Durban,86,0,1
+2021-03-21,India,South Africa,Lucknow,158,0,1
+2009-06-15,Pakistan,Ireland,London,159,1,1
+2022-08-20,Hong Kong,Singapore,Al Amarat,148,1,1
+2023-11-03,United Arab Emirates,Nepal,Kathmandu,134,0,1
+2005-06-13,England,Australia,Southampton,179,1,1
+2021-06-29,South Africa,West Indies,St George's,167,1,1
+2024-07-11,New Zealand,England,Canterbury,141,0,1
+2022-06-21,Singapore,Qatar,Bangi,46,0,1
+2023-01-21,South Africa,West Indies,East London,141,1,1
+2016-03-27,Australia,India,Chandigarh,160,0,1
+2020-08-13,Germany,Austria,Lower Austria,191,1,1
+2023-09-20,Malaysia,Papua New Guinea,Kuala Lumpur,152,0,1
+2022-09-13,England,India,Derby,142,0,1
+2022-07-28,Slovenia,Guernsey,Kerava,55,0,1
+2018-01-22,Pakistan,New Zealand,Wellington,105,0,1
+2022-09-22,Tanzania,Uganda,Benoni,174,0,1
+2020-12-20,Pakistan,New Zealand,Hamilton,163,0,1
+2019-01-31,West Indies,Pakistan,Karachi,160,1,1
+2024-07-02,Singapore,Indonesia,Bali,50,0,1
+2013-01-20,South Africa,West Indies,St Lucia,94,0,1
+2024-06-10,South Africa,Bangladesh,New York,113,1,1
+2021-07-08,France,Germany,Krefeld,55,0,1
+2021-10-28,Maldives,Kuwait,Doha,103,0,1
+2023-09-26,United Arab Emirates,Namibia,Dubai,100,1,1
+2023-05-29,Nepal,Malaysia,Bangi,50,0,1
+2023-05-06,Gibraltar,Malta,Gibraltar,143,1,1
+2022-03-22,Bahrain,Saudi Arabia,Al Amarat,318,1,1
+2021-09-09,New Zealand,England,Taunton,144,0,1
+2023-08-14,Netherlands,Ireland,Amstelveen,92,0,1
+2010-02-26,New Zealand,Australia,Wellington,118,0,1
+2024-10-05,Japan,Singapore,Sano,98,1,1
+2021-09-05,New Zealand,Bangladesh,Dhaka,128,1,1
+2014-04-06,England,Australia,Mirpur,105,0,1
+2023-12-10,Zimbabwe,Ireland,Harare,140,0,1
+2023-09-22,Bahrain,United Arab Emirates,Doha,150,1,1
+2024-10-20,New Zealand,South Africa,Dubai,158,1,1
+2024-10-19,Thailand,Bhutan,Gelephu,171,1,1
+2023-05-04,Portugal,Malta,Gibraltar,160,1,1
+2019-05-09,Japan,Papua New Guinea,Port Vila,37,0,1
+2021-04-12,Pakistan,South Africa,Johannesburg,140,0,1
+2020-12-01,South Africa,England,Cape Town,191,0,1
+2019-05-29,West Indies,Ireland,Dublin,188,1,1
+2022-09-21,Bangladesh,United States of America,Abu Dhabi,158,1,1
+2021-03-28,New Zealand,Australia,Hamilton,130,0,1
+2019-02-01,Sri Lanka,South Africa,Cape Town,90,0,1
+2019-08-03,West Indies,India,Lauderhill,95,0,1
+2012-03-27,West Indies,Australia,St Lucia,150,0,1
+2017-02-01,India,England,Bangalore,202,1,1
+2009-06-11,England,South Africa,Nottingham,111,0,1
+2021-08-21,Rwanda,Ghana,Kigali City,147,0,1
+2022-12-15,Qatar,Kenya,Nairobi,39,0,1
+2024-04-01,Oman,Namibia,Al Amarat,109,0,1
+2021-04-21,Netherlands,Malaysia,Kirtipur,107,0,1
+2024-07-13,New Zealand,England,London,103,0,1
+2016-03-15,India,Bangladesh,Bangalore,163,1,1
+2024-05-12,Ireland,Pakistan,Dublin,193,0,1
+2015-07-02,Netherlands,Nepal,Rotterdam,149,1,1
+2019-11-01,New Zealand,England,Christchurch,153,0,1
+2007-09-14,India,Pakistan,Durban,141,0,1
+2022-07-14,Netherlands,Uganda,Bulawayo,187,1,1
+2012-09-15,England,West Indies,Hove,154,1,1
+2023-10-25,Hong Kong,United Arab Emirates,Kathmandu,212,1,1
+2023-09-24,Bangladesh,India,Hangzhou,51,0,1
+2021-12-16,West Indies,Pakistan,Karachi,207,0,1
+2020-02-10,New Zealand,South Africa,Wellington,171,1,1
+2024-01-17,New Zealand,Pakistan,Dunedin,224,1,1
+2022-12-17,England,West Indies,Bridgetown,157,1,1
+2020-11-30,West Indies,New Zealand,Mount Maunganui,25,0,1
+2019-05-05,Pakistan,England,Cardiff,173,0,1
+2022-06-30,Netherlands,Namibia,The Hague,83,0,1
+2024-04-09,United States of America,Canada,Houston,230,1,1
+2022-04-05,Pakistan,Australia,Lahore,162,0,1
+2017-10-29,Pakistan,Sri Lanka,Lahore,180,1,1
+2024-11-02,Kenya,Rwanda,Kigali City,50,0,1
+2008-04-20,Pakistan,Bangladesh,Karachi,203,1,1
+2016-03-25,Australia,Pakistan,Chandigarh,193,1,1
+2015-01-11,South Africa,West Indies,Johannesburg,231,0,1
+2010-05-07,Australia,India,Barbados,184,1,1
+2021-07-31,Pakistan,West Indies,Providence,157,1,1
+2024-06-24,West Indies,Sri Lanka,Hambantota,134,0,1
+2024-04-16,Cambodia,Bahrain,Al Amarat,83,0,1
+2024-10-12,Serbia,Bulgaria,Belgrade,206,1,1
+2013-04-20,Netherlands,Kenya,Windhoek,113,0,1
+2024-04-24,Indonesia,Mongolia,Bali,151,1,1
+2024-06-22,Guernsey,Jersey,Castel,134,0,1
+2017-11-19,England,Australia,Canberra,152,1,1
+2015-05-26,Sri Lanka,West Indies,Colombo,74,0,1
+2021-11-22,Bangladesh,Pakistan,Dhaka,124,0,1
+2013-01-26,Australia,Sri Lanka,Sydney,137,0,1
+2019-05-19,South Africa,Pakistan,Pietermaritzburg,138,0,1
+2023-10-03,Namibia,United Arab Emirates,Dubai,97,0,1
+2023-07-29,Japan,Papua New Guinea,Port Moresby,106,0,1
+2024-08-26,Canada,Netherlands,Utrecht,132,1,1
+2016-09-05,Hong Kong,Ireland,Londonderry,169,1,1
+2012-10-05,Australia,West Indies,Colombo,115,1,1
+2018-10-27,Pakistan,Australia,Kuala Lumpur,101,0,1
+2021-05-24,Scotland,Ireland,Belfast,87,1,1
+2021-06-11,Kenya,Rwanda,Kigali City,117,1,1
+2019-12-06,West Indies,India,Hyderabad,207,0,1
+2023-08-30,Australia,South Africa,Durban,226,1,1
+2015-11-26,Oman,Hong Kong,Abu Dhabi,149,0,1
+2022-08-28,Pakistan,India,Dubai,147,0,1
+2016-02-26,Bangladesh,United Arab Emirates,Mirpur,133,1,1
+2017-01-25,South Africa,Sri Lanka,Cape Town,169,0,1
+2024-09-30,Canada,Oman,King City,106,0,1
+2022-08-03,India,Barbados,Birmingham,162,1,1
+2022-02-12,United Arab Emirates,Nepal,Al Amarat,192,1,1
+2024-06-01,Canada,United States of America,Dallas,194,0,1
+2020-01-15,Ireland,West Indies,St George's,208,1,1
+2009-06-09,Pakistan,Netherlands,London,175,1,1
+2024-04-30,Bangladesh,India,Sylhet,119,0,1
+2012-07-26,Bangladesh,Netherlands,The Hague,128,0,1
+2023-10-29,Zimbabwe,Namibia,Windhoek,153,0,1
+2024-09-11,Kenya,Rwanda,Nairobi,107,0,1
+2018-11-11,Ireland,Australia,Guyana,93,0,1
+2018-06-19,Netherlands,Scotland,Amstelveen,160,0,1
+2022-04-28,United Arab Emirates,Hong Kong,Ajman,131,1,1
+2019-12-05,Nepal,Bhutan,Kirtipur,236,1,1
+2021-08-07,Bangladesh,Australia,Dhaka,104,0,1
+2019-10-30,Oman,Hong Kong,Dubai,134,1,1
+2022-10-09,England,Australia,Perth,208,1,1
+2023-09-11,Argentina,Brazil,Los Angeles,61,0,1
+2013-04-19,Netherlands,Kenya,Windhoek,172,0,1
+2019-10-05,Netherlands,Ireland,Al Amarat,167,0,1
+2022-12-23,Uganda,Rwanda,Kigali City,108,1,1
+2016-03-06,Bangladesh,India,Mirpur,120,0,1
+2023-06-10,Belgium,Germany,Krefeld,164,0,1
+2024-01-27,South Africa,Australia,Canberra,147,0,1
+2021-10-06,Cyprus,Isle of Man,Episkopi,92,0,1
+2018-11-14,Sri Lanka,Bangladesh,St Lucia,97,1,1
+2018-10-12,Zimbabwe,South Africa,Potchefstroom,132,0,1
+2023-06-23,Serbia,Turkey,Sofia,181,1,1
+2007-09-01,Kenya,Bangladesh,Nairobi,138,0,1
+2007-09-13,England,Zimbabwe,Cape Town,188,1,1
+2022-10-18,Sri Lanka,United Arab Emirates,Geelong,152,1,1
+2019-09-17,Scotland,Ireland,Dublin,193,0,1
+2014-03-21,Pakistan,India,Mirpur,130,0,1
+2019-06-23,Netherlands,Zimbabwe,Rotterdam,199,1,1
+2022-05-12,Romania,Hungary,Marsa,158,0,1
+2021-10-29,West Indies,Bangladesh,Sharjah,142,1,1
+2022-06-23,India,Sri Lanka,Dambulla,138,1,1
+2023-02-18,South Africa,Australia,Gqeberha,124,0,1
+2019-08-10,Scotland,Ireland,Deventer,105,1,1
+2011-06-04,India,West Indies,Trinidad,159,1,1
+2022-04-24,Zimbabwe,Namibia,Windhoek,156,1,1
+2024-07-06,Bhutan,Singapore,Bali,87,0,1
+2019-09-07,Papua New Guinea,Ireland,Dundee,85,0,1
+2023-08-28,Uganda,Tanzania,Kigali City,180,1,1
+2014-01-19,Pakistan,Ireland,Doha,97,0,1
+2022-10-10,Japan,Indonesia,Sano,179,1,1
+2007-09-04,Kenya,Pakistan,Nairobi,92,0,1
+2014-03-27,South Africa,Netherlands,Chittagong,145,1,1
+2017-10-21,West Indies,Sri Lanka,Antigua,154,1,1
+2019-05-10,Samoa,Papua New Guinea,Port Vila,82,0,1
+2015-07-17,Nepal,Papua New Guinea,Dublin,93,0,1
+2023-03-04,Argentina,Cayman Islands,Buenos Aires,125,0,1
+2019-06-25,Netherlands,Zimbabwe,Rotterdam,152,0,1
+2021-01-31,South Africa,Pakistan,Durban,133,1,1
+2021-04-17,Netherlands,Nepal,Kirtipur,136,0,1
+2024-05-30,Uganda,Botswana,Kigali City,140,1,1
+2024-04-03,South Africa,Sri Lanka,East London,155,0,1
+2012-09-24,Ireland,West Indies,Colombo,129,0,1
+2022-11-30,Thailand,Netherlands,Chiang Mai,113,0,1
+2010-05-14,New Zealand,West Indies,St Lucia,180,1,1
+2021-07-25,India,Sri Lanka,Colombo,164,1,1
+2023-10-07,Rwanda,Nigeria,Lagos,95,0,1
+2016-03-16,West Indies,Pakistan,Chennai,103,1,1
+2023-07-22,Vanuatu,Papua New Guinea,Port Moresby,71,0,1
+2024-03-06,Tanzania,Kuwait,Kuala Lumpur,97,0,1
+2023-03-25,South Africa,West Indies,Centurion,131,0,1
+2024-07-28,Sri Lanka,India,Kandy,161,0,1
+2022-06-29,Hungary,Belgium,Waterloo,120,0,1
+2022-08-24,Singapore,Kuwait,Al Amarat,104,0,1
+2009-06-13,New Zealand,Pakistan,London,99,0,1
+2017-01-26,India,England,Kanpur,147,0,1
+2018-11-24,England,Australia,Antigua,105,0,1
+2009-09-02,New Zealand,Sri Lanka,Colombo,141,1,1
+2022-12-07,New Zealand,Bangladesh,Queenstown,152,1,1
+2024-05-11,England,Pakistan,Birmingham,163,1,1
+2012-12-20,England,India,Pune,157,0,1
+2023-07-08,Ireland,West Indies,Gros Islet,116,0,1
+2024-04-12,Malaysia,Nepal,Al Amarat,143,0,1
+2017-01-08,New Zealand,Bangladesh,Mount Maunganui,194,1,1
+2022-06-25,Malaysia,United Arab Emirates,Kuala Lumpur,100,0,1
+2020-02-24,Sri Lanka,Australia,Perth,122,0,1
+2024-02-27,Hong Kong,Qatar,Doha,172,1,1
+2023-11-18,Tanzania,Hong Kong,Wong Nai Chung Gap,106,0,1
+2022-02-21,Philippines,Oman,Al Amarat,36,0,1
+2020-11-29,South Africa,England,Paarl,146,0,1
+2022-10-01,India,Sri Lanka,Sylhet,150,1,1
+2021-06-07,Botswana,Kenya,Kigali City,68,0,1
+2012-09-12,England,South Africa,Birmingham,118,1,1
+2021-07-29,Netherlands,Ireland,Dublin,109,0,1
+2023-04-29,Namibia,Uganda,Windhoek,94,1,1
+2022-06-24,Serbia,Bulgaria,Sofia,225,0,1
+2015-08-19,Australia,Ireland,Dublin,140,1,1
+2024-10-18,New Zealand,West Indies,Sharjah,128,1,1
+2022-07-29,India,Australia,Birmingham,154,0,1
+2023-12-11,Zimbabwe,Botswana,Entebbe,162,1,1
+2023-06-14,Malaysia,United Arab Emirates,Mong Kok,34,0,1
+2016-03-13,Netherlands,Ireland,Dharamsala,59,1,1
+2022-12-22,Bahrain,Qatar,Bangi,97,0,1
+2022-12-06,Tanzania,Eswatini,Kigali City,186,1,1
+2019-08-14,Scotland,Ireland,Deventer,126,0,1
+2022-07-15,Romania,Isle of Man,Kerava,120,0,1
+2023-02-15,Pakistan,Ireland,Cape Town,165,1,1
+2019-11-05,Pakistan,Australia,Canberra,150,0,1
+2021-10-26,West Indies,South Africa,Dubai,143,0,1
+2022-11-05,Germany,Spain,Almeria,131,1,1
+2022-05-01,Spain,Guernsey,Almeria,107,0,1
+2023-08-20,Romania,Malta,Ilfov County,190,1,1
+2013-11-06,New Zealand,Bangladesh,Mirpur,204,1,1
+2022-09-20,Ghana,Uganda,Benoni,133,0,1
+2018-07-14,Bangladesh,Ireland,Utrecht,122,1,1
+2021-02-22,New Zealand,Australia,Christchurch,184,1,1
+2022-04-21,Namibia,Uganda,Windhoek,90,1,1
+2022-07-25,France,Switzerland,Vantaa,157,0,1
+2018-10-04,West Indies,South Africa,Trinidad,135,0,1
+2023-06-24,Turkey,Bulgaria,Sofia,147,0,1
+2007-09-11,West Indies,South Africa,Johannesburg,205,0,1
+2024-06-12,West Indies,New Zealand,Tarouba,149,1,1
+2019-10-01,Zimbabwe,Nepal,Singapore,160,1,1
+2023-12-13,Tanzania,Zimbabwe,Entebbe,82,0,1
+2016-02-21,Hong Kong,United Arab Emirates,Fatullah,146,0,1
+2022-07-04,Bhutan,Maldives,Bangi,110,1,1
+2021-03-14,England,India,Ahmedabad,164,0,1
+2022-06-18,Hong Kong,Bhutan,Bangi,102,1,1
+2022-04-09,Namibia,Uganda,Windhoek,177,0,1
+2022-07-23,South Africa,England,Worcester,148,0,1
+2021-10-21,Nigeria,Sierra Leone,Lagos,124,1,1
+2018-07-01,New Zealand,England,Chelmsford,137,0,1
+2024-10-28,Kuwait,Myanmar,Singapore,130,1,1
+2023-01-24,Pakistan,Australia,Sydney,118,0,1
+2018-01-03,New Zealand,West Indies,Mount Maunganui,243,1,1
+2024-07-14,Croatia,Germany,Krefeld,98,0,1
+2022-07-27,Slovenia,Bulgaria,Vantaa,140,0,1
+2020-09-08,England,Australia,Southampton,145,0,1
+2018-07-07,Papua New Guinea,Bangladesh,Amstelveen,84,0,1
+2024-08-17,Fiji,Samoa,Apia,62,0,1
+2023-01-28,India,South Africa,East London,4,0,1
+2011-08-31,India,England,Manchester,165,0,1
+2023-11-02,Oman,Nepal,Kirtipur,145,1,1
+2021-07-01,West Indies,South Africa,St George's,167,1,1
+2023-03-02,Argentina,Bahamas,Buenos Aires,117,1,1
+2019-09-22,China,Hong Kong,Incheon,104,1,1
+2018-03-25,India,England,Mumbai,198,0,1
+2018-03-12,Sri Lanka,India,Colombo,152,0,1
+2009-01-13,South Africa,Australia,Brisbane,157,0,1
+2021-03-23,South Africa,India,Lucknow,112,0,1
+2009-10-28,West Indies,South Africa,Paarl,97,1,1
+2022-10-03,India,Malaysia,Sylhet,181,1,1
+2012-12-23,South Africa,New Zealand,East London,165,0,1
+2019-07-12,Zimbabwe,Ireland,Bready,132,0,1
+2021-07-23,Zimbabwe,Bangladesh,Harare,166,1,1
+2018-11-16,West Indies,Sri Lanka,St Lucia,187,1,1
+2023-09-18,Saudi Arabia,Bahrain,Doha,110,0,1
+2021-10-19,Malawi,Ghana,Kigali City,95,0,1
+2009-06-18,Pakistan,South Africa,Nottingham,149,1,1
+2024-07-26,Bangladesh,India,Dambulla,80,0,1
+2024-04-28,Pakistan,West Indies,Karachi,121,0,1
+2022-07-17,Uganda,Hong Kong,Bulawayo,102,1,1
+2020-01-26,New Zealand,India,Auckland,132,0,1
+2024-04-29,Scotland,United States of America,Abu Dhabi,149,1,1
+2023-12-26,Indonesia,Philippines,Bali,123,0,1
+2024-03-27,England,New Zealand,Wellington,177,1,1
+2022-11-01,England,New Zealand,Brisbane,179,1,1
+2012-06-03,Pakistan,Sri Lanka,Hambantota,122,1,1
+2019-02-18,Malaysia,Kuwait,Bangkok,139,1,1
+2014-09-03,Pakistan,Australia,Gold Coast,84,0,1
+2019-02-15,Oman,Netherlands,Al Amarat,166,0,1
+2024-09-21,Spain,Greece,Corfu,118,1,1
+2019-10-02,Australia,Sri Lanka,Sydney,226,1,1
+2017-02-19,New Zealand,Australia,Victoria,101,1,1
+2021-05-23,Czech Republic,Austria,Prague,156,0,1
+2023-06-13,Rwanda,Botswana,Nairobi,158,1,1
+2021-10-17,Scotland,Bangladesh,Al Amarat,140,1,1
+2024-09-12,Namibia,United Arab Emirates,Windhoek,126,0,1
+2021-08-08,Norway,Germany,Krefeld,185,1,1
+2008-02-05,England,New Zealand,Auckland,184,1,1
+2022-01-29,England,West Indies,Bridgetown,193,1,1
+2014-03-30,India,Australia,Mirpur,159,1,1
+2021-09-13,Nigeria,Uganda,Entebbe,123,0,1
+2019-11-03,India,Bangladesh,Delhi,148,0,1
+2019-06-16,Jersey,Denmark,Castel,131,1,1
+2022-08-25,Kenya,Nepal,Nairobi,130,0,1
+2019-10-22,Singapore,Netherlands,Dubai,101,0,1
+2018-04-03,West Indies,Pakistan,Karachi,153,0,1
+2014-03-29,South Africa,England,Chittagong,196,1,1
+2021-08-05,Norway,France,Krefeld,112,0,1
+2024-08-13,Ireland,Sri Lanka,Dublin,173,1,1
+2023-09-29,Maldives,Kuwait,Doha,100,0,1
+2024-10-15,Sri Lanka,West Indies,Dambulla,162,1,1
+2024-10-13,Scotland,England,Sharjah,109,0,1
+2017-07-09,India,West Indies,Jamaica,190,0,1
+2022-06-12,India,South Africa,Cuttack,148,0,1
+2023-05-30,Jersey,Germany,St Saviour,121,0,1
+2019-06-19,Jersey,Italy,St Peter Port,149,1,1
+2019-05-11,Tanzania,Rwanda,Harare,114,1,1
+2024-02-10,Bahrain,Qatar,Kuala Lumpur,61,0,1
+2006-12-26,Sri Lanka,New Zealand,Auckland,115,0,1
+2019-08-23,Botswana,Namibia,Windhoek,85,0,1
+2024-09-19,New Zealand,Australia,Mackay,143,0,1
+2019-09-13,Zimbabwe,Bangladesh,Dhaka,144,0,1
+2021-07-18,England,Pakistan,Leeds,200,1,1
+2014-11-24,Nepal,Hong Kong,Colombo,72,0,1
+2016-03-09,Bangladesh,Netherlands,Dharamsala,153,1,1
+2023-10-06,Bangladesh,India,Hangzhou,96,0,1
+2008-12-28,New Zealand,West Indies,Hamilton,191,1,1
+2023-03-09,Hong Kong,Kuwait,Mong Kok,161,1,1
+2022-11-04,New Zealand,Ireland,Adelaide,185,1,1
+2024-05-09,France,Malta,Dreux,170,1,1
+2007-09-18,New Zealand,England,Durban,164,1,1
+2010-07-05,Pakistan,Australia,Birmingham,167,1,1
+2023-12-27,New Zealand,Bangladesh,Napier,134,0,1
+2015-07-11,Netherlands,Scotland,Edinburgh,191,1,1
+2024-05-01,Netherlands,Zimbabwe,Abu Dhabi,135,1,1
+2022-11-18,Seychelles,Mali,Kigali City,162,0,1
+2022-12-19,Tanzania,Kenya,Nairobi,131,0,1
+2023-07-14,Netherlands,Thailand,Utrecht,75,0,1
+2019-08-22,Cayman Islands,Canada,Hamilton,91,0,1
+2023-06-15,Botswana,Kenya,Nairobi,145,1,1
+2022-12-14,Uganda,Rwanda,Kigali City,185,1,1
+2013-03-03,West Indies,Zimbabwe,Antigua,158,1,1
+2024-03-12,Hong Kong,Papua New Guinea,Mong Kok,121,0,1
+2018-06-03,Thailand,Pakistan,Kuala Lumpur,67,0,1
+2023-12-01,India,Australia,Raipur,174,1,1
+2022-12-21,Tanzania,Qatar,Nairobi,129,1,1
+2023-11-15,Japan,Hong Kong,Wong Nai Chung Gap,78,0,1
+2018-11-18,South Africa,Bangladesh,St Lucia,109,1,1
+2016-03-20,Sri Lanka,Ireland,Mohali,129,1,1
+2024-07-01,Malawi,Kenya,Nairobi,103,0,1
+2022-03-30,Malaysia,Nepal,Kirtipur,114,0,1
+2023-07-24,Austria,Denmark,Edinburgh,97,0,1
+2019-09-20,China,South Korea,Incheon,132,1,1
+2018-02-24,India,South Africa,Cape Town,166,1,1
+2024-09-20,Pakistan,South Africa,Multan,153,0,1
+2022-05-08,Denmark,Finland,Brondby,164,1,1
+2021-10-23,West Indies,England,Dubai,55,0,1
+2016-02-04,United Arab Emirates,Scotland,Dubai,148,1,1
+2019-10-27,Australia,Sri Lanka,Adelaide,233,1,1
+2023-05-21,Sweden,Finland,Copenhagen,96,0,1
+2023-02-13,Ireland,England,Paarl,105,0,1
+2023-11-25,Namibia,Rwanda,Windhoek,207,1,1
+2024-07-12,Belgium,Serbia,Krefeld,179,1,1
+2024-08-03,Croatia,Spain,Zagreb,47,0,1
+2019-02-25,Kuwait,Hong Kong,Bangkok,25,0,1
+2019-03-28,England,Sri Lanka,Colombo,204,1,1
+2022-05-15,Czech Republic,Hungary,Marsa,221,1,1
+2009-03-29,South Africa,Australia,Centurion,156,1,1
+2022-10-24,Bangladesh,Netherlands,Hobart,144,1,1
+2015-08-21,Australia,Ireland,Dublin,131,1,1
+2022-11-25,Rwanda,Lesotho,Kigali City,192,0,1
+2023-04-26,United Arab Emirates,Hong Kong,Windhoek,139,0,1
+2022-12-08,Ghana,Gambia,Kigali City,215,1,1
+2018-08-25,Lesotho,Malawi,Gaborone,49,0,1
+2022-03-25,Qatar,Saudi Arabia,Al Amarat,282,1,1
+2023-07-13,Romania,Switzerland,Marsa,134,0,1
+2022-07-16,Italy,Croatia,Kerava,210,1,1
+2023-05-19,Finland,Denmark,Brondby,92,0,1
+2022-06-19,Oman,Qatar,Bangi,48,0,1
+2024-08-14,Netherlands,Papua New Guinea,Amstelveen,66,0,1
+2016-02-19,Oman,Hong Kong,Fatullah,180,1,1
+2016-09-27,West Indies,Pakistan,Abu Dhabi,103,0,1
+2022-05-19,Zimbabwe,Namibia,Bulawayo,122,0,1
+2023-05-01,Namibia,Uganda,Windhoek,77,0,1
+2022-12-01,Gambia,Eswatini,Kigali City,122,0,1
+2024-02-25,Australia,New Zealand,Auckland,118,1,1
+2023-11-21,Indonesia,Cambodia,Bali,192,1,1
+2022-10-22,New Zealand,Australia,Sydney,200,1,1
+2019-05-07,Fiji,Papua New Guinea,Port Vila,23,0,1
+2022-11-12,Pakistan,Ireland,Lahore,135,0,1
+2021-10-10,Ireland,United Arab Emirates,Dubai,134,0,1
+2020-08-21,Isle of Man,Guernsey,St Peter Port,100,0,1
+2018-05-20,South Africa,Bangladesh,Bloemfontein,64,1,1
+2023-04-15,Pakistan,New Zealand,Lahore,192,1,1
+2019-10-09,Ireland,Nepal,Al Amarat,145,1,1
+2022-05-24,Sri Lanka,Pakistan,Karachi,106,0,1
+2012-06-30,West Indies,New Zealand,Lauderhill,209,1,1
+2024-03-18,Uganda,Ghana,Accra,194,1,1
+2021-10-07,India,Australia,Carrara,131,0,1
+2024-07-23,United Arab Emirates,Pakistan,Dambulla,103,0,1
+2023-09-16,Bahrain,Kuwait,Doha,123,0,1
+2012-06-26,England,India,Canterbury,137,1,1
+2021-09-15,Scotland,Zimbabwe,Edinburgh,141,1,1
+2021-10-08,Estonia,Isle of Man,Episkopi,71,0,1
+2021-07-12,Australia,West Indies,Gros Islet,141,0,1
+2023-08-25,Hong Kong,Kuwait,Kuala Lumpur,75,1,1
+2017-11-07,India,New Zealand,Thiruvananthapuram,67,1,1
+2024-01-14,Zimbabwe,Sri Lanka,Colombo,143,0,1
+2023-10-12,Ghana,Rwanda,Lagos,54,0,1
+2022-06-22,United Arab Emirates,Qatar,Kuala Lumpur,214,1,1
+2018-06-12,Pakistan,Scotland,Edinburgh,204,1,1
+2016-03-19,India,Pakistan,Delhi,96,0,1
+2012-07-18,Bangladesh,Ireland,Belfast,190,1,1
+2018-02-13,South Africa,India,Potchefstroom,164,0,1
+2023-07-25,Scotland,Austria,Edinburgh,232,1,1
+2021-09-04,Luxembourg,Hungary,Ilfov County,179,1,1
+2023-09-04,Cook Islands,Vanuatu,Port Vila,55,0,1
+2019-08-28,Malaysia,Singapore,Singapore,126,1,1
+2024-09-04,Scotland,Australia,Edinburgh,154,0,1
+2018-06-13,Ireland,Netherlands,Rotterdam,158,0,1
+2023-10-30,Namibia,Zimbabwe,Windhoek,101,1,1
+2013-11-19,Kenya,Scotland,Dubai,183,1,1
+2021-07-14,India,England,Chelmsford,153,0,1
+2023-11-30,Zimbabwe,Kenya,Windhoek,217,1,1
+2022-01-19,Scotland,Malaysia,Kuala Lumpur,148,1,1
+2016-03-10,Zimbabwe,Scotland,Nagpur,147,1,1
+2018-03-29,England,India,Mumbai,107,0,1
+2024-06-17,Estonia,Cyprus,Episkopi,75,0,1
+2024-06-18,Estonia,Cyprus,Episkopi,144,1,1
+2007-09-19,India,England,Durban,218,1,1
+2022-01-22,England,Australia,Adelaide,25,0,1
+2024-05-04,Indonesia,Thailand,Bali,126,1,1
+2022-05-21,Nepal,Uganda,Kirtipur,123,1,1
+2019-05-21,Nigeria,Botswana,Kampala,119,1,1
+2014-02-21,West Indies,Ireland,Jamaica,96,1,1
+2020-02-12,Australia,India,Melbourne,155,1,1
+2023-12-14,West Indies,England,St George's,176,1,1
+2021-11-05,Scotland,India,Dubai,85,0,1
+2022-08-30,Nepal,Kenya,Nairobi,175,1,1
+2023-07-30,Malaysia,Myanmar,Kuala Lumpur,219,1,1
+2015-08-01,Sri Lanka,Pakistan,Colombo,172,0,1
+2020-03-02,Bangladesh,Sri Lanka,Melbourne,91,0,1
+2010-05-01,Pakistan,Bangladesh,St Lucia,172,1,1
+2024-04-13,Nepal,Qatar,Al Amarat,210,1,1
+2024-09-03,Malaysia,Singapore,Bangi,182,1,1
+2015-11-13,Zimbabwe,Bangladesh,Mirpur,131,0,1
+2024-03-20,Tanzania,Namibia,Accra,71,0,1
+2013-02-15,New Zealand,England,Wellington,139,0,1
+2021-12-23,Ireland,United States of America,Lauderhill,150,1,1
+2023-12-12,England,West Indies,Bridgetown,171,0,1
+2022-07-21,Australia,Ireland,Bready,182,1,1
+2016-01-30,Scotland,Hong Kong,Hong Kong,66,0,1
+2013-07-29,Ireland,Pakistan,Dublin,65,0,1
+2021-11-23,Malaysia,Kuwait,Dubai,161,1,1
+2015-08-26,Australia,England,Chelmsford,122,0,1
+2024-04-23,Mozambique,Botswana,Gaborone,63,0,1
+2024-10-10,Bangladesh,West Indies,Sharjah,103,0,1
+2024-04-20,Nepal,Hong Kong,Al Amarat,139,0,1
+2023-10-31,Oman,Singapore,Kirtipur,174,1,1
+2010-05-09,Australia,Sri Lanka,Barbados,168,1,1
+2020-02-25,United Arab Emirates,Saudi Arabia,Al Amarat,150,1,1
+2021-11-06,Botswana,Mozambique,Kigali City,152,1,1
+2023-07-10,Scotland,Thailand,Utrecht,65,0,1
+2019-07-27,Kuwait,Nepal,Singapore,141,0,1
+2024-01-30,Ireland,Zimbabwe,Harare,169,1,1
+2022-06-03,Ireland,South Africa,Dublin,143,1,1
+2019-08-19,Bermuda,Canada,Hamilton,82,0,1
+2012-02-17,South Africa,New Zealand,Wellington,147,0,1
+2021-10-09,Scotland,Namibia,Dubai,137,0,1
+2016-03-08,Zimbabwe,Hong Kong,Nagpur,158,1,1
+2021-08-29,Zimbabwe,Ireland,Dublin,152,0,1
+2007-09-16,New Zealand,India,Johannesburg,190,1,1
+2022-06-06,Ireland,South Africa,Dublin,106,0,1
+2012-02-14,Zimbabwe,New Zealand,Hamilton,200,0,1
+2017-04-02,West Indies,Pakistan,Trinidad,124,0,1
+2022-01-18,Malaysia,Bangladesh,Kuala Lumpur,49,0,1
+2015-07-01,Netherlands,Nepal,Amstelveen,172,1,1
+2019-09-06,Sri Lanka,New Zealand,Kandy,125,1,1
+2021-12-13,Pakistan,West Indies,Karachi,200,1,1
+2024-06-06,Pakistan,United States of America,Dallas,159,0,1
+2021-08-15,Sweden,Denmark,Brondby,122,0,1
+2021-09-01,Ireland,Zimbabwe,Bready,178,1,1
+2009-06-19,Australia,England,London,163,0,1
+2022-08-05,Netherlands,New Zealand,The Hague,147,0,1
+2024-01-28,Ireland,Zimbabwe,Harare,172,1,1
+2021-05-21,Luxembourg,Czech Republic,Prague,126,0,1
+2014-09-07,England,India,Birmingham,180,1,1
+2010-04-30,Sri Lanka,New Zealand,Guyana,135,0,1
+2023-08-01,Thailand,Malaysia,Kuala Lumpur,93,0,1
+2024-07-15,Kenya,Nigeria,Nairobi,149,0,1
+2024-10-11,Pakistan,Australia,Dubai,82,0,1
+2022-02-26,Sri Lanka,India,Dharamsala,183,0,1
+2017-04-06,Bangladesh,Sri Lanka,Colombo,176,1,1
+2024-04-19,Hong Kong,Oman,Al Amarat,130,0,1
+2015-07-30,Pakistan,Sri Lanka,Colombo,175,1,1
+2024-06-21,United States of America,West Indies,Bridgetown,128,0,1
+2018-10-22,United Arab Emirates,Australia,Abu Dhabi,117,0,1
+2010-05-10,Pakistan,South Africa,St Lucia,148,1,1
+2013-02-12,New Zealand,England,Hamilton,192,1,1
+2020-02-20,Malaysia,Hong Kong,Kuala Lumpur,123,1,1
+2016-03-04,Australia,South Africa,Durban,157,0,1
+2016-03-02,Pakistan,Bangladesh,Mirpur,129,0,1
+2018-03-06,India,Sri Lanka,Colombo,174,0,1
+2022-08-14,New Zealand,West Indies,Kingston,145,0,1
+2010-05-04,England,Ireland,Guyana,120,0,1
+2024-09-05,Malaysia,Kuwait,Kuala Lumpur,149,0,1
+2015-10-05,India,South Africa,Cuttack,92,0,1
+2022-05-20,Nepal,Uganda,Kirtipur,97,1,1
+2023-08-24,Netherlands,Jersey,Utrecht,144,1,1
+2021-06-10,Botswana,Nigeria,Kigali City,106,0,1
+2020-02-09,Australia,England,Melbourne,132,1,1
+2024-09-28,Canada,Nepal,King City,123,1,1
+2023-12-16,West Indies,England,St George's,222,0,1
+2024-11-08,India,South Africa,Durban,202,1,1
+2022-09-04,India,Pakistan,Dubai,181,0,1
+2022-01-20,Kenya,Sri Lanka,Kuala Lumpur,87,0,1
+2018-03-31,Australia,England,Mumbai,209,1,1
+2010-02-28,Zimbabwe,West Indies,Trinidad,105,1,1
+2023-03-31,Bangladesh,Ireland,Chattogram,124,0,1
+2024-01-05,Australia,India,Navi Mumbai,141,0,1
+2020-02-08,Germany,Oman,Al Amarat,128,1,1
+2019-08-31,Scotland,United States of America,Dundee,60,1,1
+2006-02-16,West Indies,New Zealand,Auckland,126,0,1
+2018-06-16,Ireland,Scotland,Deventer,205,1,1
+2024-05-23,United States of America,Bangladesh,Houston,144,1,1
+2021-07-11,India,England,Brighton,148,1,1
+2019-10-29,Namibia,Oman,Dubai,161,1,1
+2023-11-29,Uganda,Kenya,Windhoek,162,1,1
+2024-06-03,Uganda,Malawi,Kigali City,118,1,1
+2023-07-16,Malta,Switzerland,Marsa,164,0,1
+2017-11-04,New Zealand,India,Rajkot,196,1,1
+2021-04-05,Namibia,Uganda,Windhoek,189,1,1
+2024-01-16,Sri Lanka,Zimbabwe,Colombo,173,0,1
+2016-03-30,New Zealand,England,Delhi,153,0,1
+2020-02-22,Thailand,West Indies,Perth,78,0,1
+2016-09-07,England,Pakistan,Manchester,135,0,1
+2023-04-14,Pakistan,New Zealand,Lahore,182,1,1
+2010-02-21,Australia,West Indies,Hobart,179,1,1
+2012-06-28,India,England,Chelmsford,114,0,1
+2018-11-15,India,Ireland,Guyana,145,1,1
+2014-01-24,South Africa,Pakistan,Doha,68,0,1
+2024-09-26,Japan,Philippines,Incheon,109,1,1
+2024-02-23,Australia,New Zealand,Auckland,174,1,1
+2022-10-21,Scotland,Zimbabwe,Hobart,132,0,1
+2016-07-03,England,Pakistan,Bristol,187,1,1
+2014-03-23,Pakistan,Australia,Mirpur,191,1,1
+2022-11-14,Ireland,Pakistan,Lahore,118,0,1
+2011-10-29,India,England,Kolkata,120,0,1
+2024-10-25,Myanmar,Kuwait,Singapore,121,1,1
+2023-02-17,Ireland,West Indies,Cape Town,137,0,1
+2021-10-27,Scotland,Namibia,Abu Dhabi,109,0,1
+2023-08-21,Uganda,Tanzania,Kigali City,176,0,1
+2021-07-10,Belgium,Malta,Marsa,128,0,1
+2022-04-23,Namibia,Uganda,Windhoek,68,1,1
+2022-05-17,Zimbabwe,Namibia,Bulawayo,153,1,1
+2022-10-23,Pakistan,India,Melbourne,159,0,1
+2016-01-15,Pakistan,New Zealand,Auckland,171,1,1
+2023-04-27,Hong Kong,Uganda,Windhoek,68,0,1
+2018-08-24,Botswana,Namibia,Gaborone,93,0,1
+2014-03-24,South Africa,New Zealand,Chittagong,170,1,1
+2022-05-07,Denmark,Finland,Brondby,171,1,1
+2019-03-05,West Indies,England,Gros Islet,160,0,1
+2022-07-22,Ireland,New Zealand,Belfast,174,0,1
+2023-05-20,Finland,Norway,Copenhagen,102,0,1
+2015-08-16,New Zealand,South Africa,Centurion,177,1,1
+2014-02-02,England,Australia,Sydney,101,0,1
+2019-03-26,Sri Lanka,England,Colombo,108,0,1
+2021-09-19,Uganda,Tanzania,Gaborone,79,0,1
+2022-03-31,Nepal,Papua New Guinea,Kirtipur,203,1,1
+2024-09-18,Pakistan,South Africa,Multan,181,1,1
+2015-12-05,Bangladesh,Ireland,Bangkok,105,0,1
+2024-05-18,Netherlands,Scotland,The Hague,167,1,1
+2024-10-01,United States of America,Namibia,Windhoek,181,1,1
+2024-11-12,Indonesia,Myanmar,Bali,192,1,1
+2017-12-20,India,Sri Lanka,Cuttack,180,1,1
+2013-10-31,Sri Lanka,South Africa,Potchefstroom,119,0,1
+2022-02-14,United Arab Emirates,Oman,Al Amarat,164,0,1
+2016-02-14,Ireland,United Arab Emirates,Abu Dhabi,134,1,1
+2021-06-08,Namibia,Botswana,Kigali City,155,1,1
+2019-05-20,Ghana,Namibia,Kampala,91,0,1
+2022-10-02,West Indies,New Zealand,North Sound,93,0,1
+2019-05-18,United States of America,Canada,Lauderhill,113,1,1
+2014-10-25,Sri Lanka,South Africa,Colombo,76,0,1
+2013-03-02,Zimbabwe,West Indies,Antigua,130,0,1
+2018-06-04,Pakistan,Bangladesh,Kuala Lumpur,95,0,1
+2019-02-17,Oman,Scotland,Al Amarat,111,0,1
+2022-11-03,Pakistan,South Africa,Sydney,185,1,1
+2007-09-17,Pakistan,Sri Lanka,Johannesburg,189,1,1
+2010-07-06,Pakistan,Australia,Birmingham,162,1,1
+2024-07-03,Rwanda,Kenya,Nairobi,168,0,1
+2010-05-23,New Zealand,Sri Lanka,Lauderhill,81,0,1
+2009-08-30,Australia,England,Manchester,145,0,1
+2014-02-12,Sri Lanka,Bangladesh,Chittagong,168,1,1
+2021-07-16,Pakistan,England,Nottingham,232,1,1
+2023-08-26,Denmark,Sweden,Kerava,76,0,1
+2016-02-29,United Arab Emirates,Pakistan,Mirpur,129,0,1
+2022-06-14,India,South Africa,Visakhapatnam,179,1,1
+2017-01-17,Scotland,Netherlands,Abu Dhabi,148,1,1
+2024-03-14,Scotland,United Arab Emirates,Dubai,94,1,1
+2021-08-26,Netherlands,Scotland,Murcia,98,0,1
+2013-11-16,Ireland,Canada,Abu Dhabi,168,1,1
+2016-02-22,United Arab Emirates,Oman,Mirpur,172,1,1
+2021-11-04,Bangladesh,Australia,Dubai,73,0,1
+2015-11-22,Oman,United Arab Emirates,Abu Dhabi,133,0,1
+2019-11-20,India,West Indies,Providence,134,1,1
+2018-04-02,Pakistan,West Indies,Karachi,205,1,1
+2020-02-01,England,Australia,Canberra,156,0,1
+2013-05-11,Zimbabwe,Bangladesh,Bulawayo,168,1,1
+2016-03-22,New Zealand,Pakistan,Chandigarh,180,1,1
+2020-03-05,Australia,South Africa,Sydney,134,1,1
+2024-02-01,Indonesia,Bhutan,Bangkok,132,1,1
+2022-01-26,West Indies,England,Bridgetown,224,1,1
+2022-10-28,Japan,Hong Kong,Osaka,91,0,1
+2019-02-13,Ireland,Oman,Al Amarat,159,1,1
+2022-12-16,Rwanda,Tanzania,Kigali City,128,1,1
+2023-06-19,Uganda,Rwanda,Nairobi,153,1,1
+2022-07-30,Sri Lanka,England,Birmingham,106,0,1
+2014-03-18,Nepal,Bangladesh,Chittagong,126,0,1
+2020-01-29,India,New Zealand,Hamilton,179,0,1
+2022-11-20,Rwanda,Kenya,Kigali City,87,0,1
+2016-01-07,New Zealand,Sri Lanka,Mount Maunganui,182,1,1
+2024-03-24,New Zealand,England,Nelson,155,1,1
+2018-03-14,India,Bangladesh,Colombo,176,1,1
+2023-04-24,Pakistan,New Zealand,Rawalpindi,193,0,1
+2012-12-26,South Africa,New Zealand,Port Elizabeth,179,1,1
+2021-07-22,Zimbabwe,Bangladesh,Harare,152,0,1
+2018-11-17,India,Australia,Guyana,167,1,1
+2023-10-01,West Indies,Australia,Sydney,147,0,1
+2023-01-25,West Indies,South Africa,East London,97,0,1
+2021-02-11,Pakistan,South Africa,Lahore,169,1,1
+2021-07-03,South Africa,West Indies,St George's,168,1,1
+2024-03-10,Bahrain,Vanuatu,Kuala Lumpur,166,1,1
+2019-04-03,Namibia,Botswana,Windhoek,163,1,1
+2018-03-23,Australia,England,Mumbai,149,0,1
+2022-05-10,Gibraltar,Hungary,Marsa,137,0,1
+2021-03-12,India,England,Ahmedabad,124,0,1
+2016-02-18,England,South Africa,Paarl,147,1,1
+2022-04-10,Namibia,Uganda,Windhoek,185,1,1
+2007-12-11,Australia,New Zealand,Perth,186,1,1
+2010-12-30,Pakistan,New Zealand,Christchurch,183,1,1
+2023-01-27,New Zealand,India,Ranchi,176,1,1
+2020-09-06,Australia,England,Southampton,157,0,1
+2018-10-06,West Indies,South Africa,Trinidad,155,0,1
+2024-02-17,Hong Kong,Japan,Mong Kok,219,1,1
+2014-04-04,South Africa,England,Mirpur,101,0,1
+2022-04-20,Zimbabwe,Namibia,Windhoek,130,0,1
+2024-10-17,Australia,South Africa,Dubai,134,0,1
+2023-12-07,Ireland,Zimbabwe,Harare,147,0,1
+2014-03-12,South Africa,Australia,Durban,80,0,1
+2013-11-04,Sri Lanka,South Africa,Potchefstroom,109,0,1
+2020-11-27,South Africa,England,Cape Town,179,0,1
+2009-06-10,Sri Lanka,West Indies,Nottingham,192,1,1
+2020-03-08,Germany,Spain,Almeria,139,0,1
+2021-06-06,Nigeria,Namibia,Kigali City,52,0,1
+2018-11-06,India,West Indies,Lucknow,195,1,1
+2012-09-10,South Africa,England,Manchester,77,0,1
+2024-05-17,England,Pakistan,Northampton,144,1,1
+2012-12-22,India,England,Mumbai,177,0,1
+2016-04-03,England,West Indies,Kolkata,155,0,1
+2010-12-28,New Zealand,Pakistan,Hamilton,185,1,1
+2022-12-13,Tanzania,Rwanda,Kigali City,147,1,1
+2023-06-21,Uganda,Kenya,Nairobi,125,1,1
+2016-02-07,Ireland,Papua New Guinea,Townsville,96,1,1
+2008-06-13,New Zealand,England,Manchester,123,0,1
+2019-08-21,Cayman Islands,Bermuda,Hamilton,116,0,1
+2010-05-22,New Zealand,Sri Lanka,Lauderhill,120,1,1
+2024-05-06,Indonesia,Thailand,Bali,117,0,1
+2019-08-18,Bermuda,United States of America,Hamilton,141,1,1
+2023-03-08,Hong Kong,Bahrain,Mong Kok,153,1,1
+2018-03-08,Bangladesh,India,Colombo,139,0,1
+2020-01-07,Sri Lanka,India,Indore,142,0,1
+2013-02-09,England,New Zealand,Auckland,214,1,1
+2015-11-15,Bangladesh,Zimbabwe,Mirpur,135,0,1
+2010-10-27,Pakistan,South Africa,Abu Dhabi,120,0,1
+2019-02-06,Pakistan,South Africa,Centurion,168,1,1
+2022-09-09,Pakistan,Sri Lanka,Dubai,121,0,1
+2024-07-16,Nigeria,Kenya,Nairobi,158,1,1
+2021-02-13,Pakistan,South Africa,Lahore,144,0,1
+2024-02-09,Japan,Saudi Arabia,Bangkok,97,0,1
+2020-02-29,Singapore,Thailand,Bangkok,139,1,1
+2022-08-12,New Zealand,West Indies,Kingston,215,1,1
+2015-08-28,Australia,England,Hove,107,1,1
+2019-11-17,India,West Indies,Providence,50,1,1
+2013-05-12,Bangladesh,Zimbabwe,Bulawayo,168,1,1
+2023-01-14,Zimbabwe,Ireland,Harare,144,0,1
+2021-06-24,Sri Lanka,England,Cardiff,111,0,1
+2018-05-31,West Indies,ICC World XI,London,199,1,1
+2018-11-04,West Indies,India,Kolkata,109,0,1
+2008-08-03,Bermuda,Scotland,Belfast,99,0,1
+2013-03-16,Kenya,Canada,Dubai,139,1,1
+2017-04-04,Bangladesh,Sri Lanka,Colombo,155,0,1
+2013-09-15,South Africa,Bangladesh,Potchefstroom,109,1,1
+2023-07-31,Myanmar,China,Kuala Lumpur,77,0,1
+2014-03-31,Netherlands,England,Chittagong,133,1,1
+2022-01-23,England,West Indies,Bridgetown,171,1,1
+2021-11-21,India,New Zealand,Kolkata,184,1,1
+2019-03-22,Papua New Guinea,Philippines,Port Moresby,216,1,1
+2023-04-28,Zimbabwe,Thailand,Bangkok,111,0,1
+2024-02-02,Singapore,Maldives,Bangkok,199,1,1
+2024-09-22,Greece,Spain,Corfu,87,0,1
+2021-05-22,Czech Republic,Luxembourg,Prague,161,0,1
+2014-08-31,Australia,Pakistan,Gold Coast,149,1,1
+2019-08-30,Malaysia,Singapore,Singapore,140,1,1
+2011-01-09,India,South Africa,Durban,168,1,1
+2015-06-23,England,New Zealand,Manchester,191,1,1
+2018-03-30,Pakistan,Sri Lanka,Colombo,72,0,1
+2019-02-19,Nepal,Malaysia,Bangkok,126,1,1
+2022-10-31,Australia,Ireland,Brisbane,179,1,1
+2024-06-07,Nigeria,Malawi,Kigali City,180,1,1
+2022-11-21,Kenya,Lesotho,Kigali City,237,1,1
+2024-04-27,United Arab Emirates,Zimbabwe,Abu Dhabi,105,0,1
+2018-07-31,Bangladesh,West Indies,St Kitts,143,0,1
+2009-06-21,Sri Lanka,Pakistan,London,138,0,1
+2013-07-05,England,Pakistan,Loughborough,145,1,1
+2009-08-12,Pakistan,Sri Lanka,Colombo,172,1,1
+2017-12-22,India,Sri Lanka,Indore,260,1,1
+2023-11-19,Tanzania,Hong Kong,Wong Nai Chung Gap,84,0,1
+2018-03-16,Sri Lanka,Bangladesh,Colombo,159,0,1
+2019-10-10,Netherlands,Hong Kong,Al Amarat,185,1,1
+2012-09-18,Sri Lanka,Zimbabwe,Hambantota,182,1,1
+2018-03-22,India,Australia,Mumbai,152,0,1
+2014-08-27,Bangladesh,West Indies,St Kitts,31,0,1
+2009-02-27,India,New Zealand,Wellington,149,0,1
+2023-02-02,India,South Africa,East London,109,0,1
+2023-10-14,Rwanda,Nigeria,Lagos,24,0,1
+2018-10-24,Pakistan,Australia,Abu Dhabi,155,1,1
+2018-07-08,Scotland,Ireland,Amstelveen,98,0,1
+2020-09-04,England,Australia,Southampton,162,1,1
+2024-08-04,Spain,Croatia,Zagreb,230,1,1
+2018-06-28,South Africa,New Zealand,Bristol,148,0,1
+2023-06-03,Nepal,Malaysia,Bangi,96,0,1
+2019-09-28,Singapore,Nepal,Singapore,151,0,1
+2024-06-11,Namibia,Australia,North Sound,72,0,1
+2023-11-23,Cambodia,Indonesia,Bali,77,0,1
+2024-08-02,Croatia,Spain,Zagreb,125,0,1
+2023-08-19,Malta,Romania,Ilfov County,115,0,1
+2024-08-16,Scotland,Netherlands,Amstelveen,145,1,1
+2010-02-03,Bangladesh,New Zealand,Hamilton,78,0,1
+2020-03-03,Thailand,Hong Kong,Bangkok,77,0,1
+2023-04-11,Gibraltar,Portugal,Albergaria,166,0,1
+2012-09-05,England,Pakistan,Loughborough,162,1,1
+2012-07-25,Netherlands,Bangladesh,The Hague,144,0,1
+2019-06-21,England,West Indies,Northampton,180,1,1
+2023-11-16,Nepal,Hong Kong,Wong Nai Chung Gap,56,0,1
+2017-02-17,South Africa,New Zealand,Auckland,185,1,1
+2024-11-13,Myanmar,Indonesia,Bali,93,0,1
+2014-07-06,West Indies,New Zealand,Dominica,165,1,1
+2019-09-19,Hong Kong,China,Incheon,84,1,1
+2017-01-06,New Zealand,Bangladesh,Mount Maunganui,195,1,1
+2023-07-04,Ireland,West Indies,Gros Islet,112,0,1
+2012-02-11,Zimbabwe,New Zealand,Auckland,159,0,1
+2017-04-01,Pakistan,West Indies,Trinidad,137,0,1
+2023-07-05,England,Australia,London,186,1,1
+2022-10-05,New Zealand,West Indies,North Sound,111,0,1
+2020-01-25,Bangladesh,Pakistan,Lahore,136,0,1
+2019-07-28,Singapore,Nepal,Singapore,191,1,1
+2018-07-06,India,England,Cardiff,148,0,1
+2017-10-26,South Africa,Bangladesh,Bloemfontein,195,1,1
+2023-08-22,Rwanda,Tanzania,Kigali City,154,0,1
+2020-12-06,Australia,India,Sydney,194,0,1
+2012-12-10,West Indies,Bangladesh,Mirpur,197,1,1
+2024-05-05,Zimbabwe,Bangladesh,Chattogram,138,0,1
+2010-05-08,England,South Africa,Barbados,168,1,1
+2022-02-27,Sri Lanka,India,Dharamsala,146,0,1
+2022-02-20,Australia,Sri Lanka,Melbourne,154,0,1
+2013-11-28,Scotland,Netherlands,Abu Dhabi,147,0,1
+2018-04-01,Pakistan,West Indies,Karachi,203,1,1
+2015-08-14,New Zealand,South Africa,Durban,151,0,1
+2019-04-02,Botswana,Namibia,Windhoek,58,0,1
+2010-05-02,India,South Africa,St Lucia,186,1,1
+2023-10-24,Ireland,Scotland,Almeria,117,0,1
+2024-11-10,West Indies,England,Bridgetown,158,0,1
+2023-12-19,England,West Indies,Tarouba,267,1,1
+2022-06-07,Sri Lanka,Australia,Colombo,128,0,1
+2019-08-20,Namibia,Botswana,Windhoek,240,1,1
+2014-02-19,West Indies,Ireland,Jamaica,116,0,1
+2014-11-09,South Africa,Australia,Sydney,145,0,1
+2024-10-02,Namibia,United Arab Emirates,Windhoek,110,0,1
+2018-06-29,India,Ireland,Dublin,213,1,1
+2021-09-14,Sri Lanka,South Africa,Colombo,120,0,1
+2009-06-25,Australia,England,Derby,151,1,1
+2021-07-19,South Africa,Ireland,Dublin,165,1,1
+2023-03-29,Bangladesh,Ireland,Chattogram,202,1,1
+2021-04-23,Zimbabwe,Pakistan,Harare,118,1,1
+2024-01-07,India,Australia,Navi Mumbai,130,0,1
+2017-06-25,England,South Africa,Cardiff,181,1,1
+2022-11-02,India,Bangladesh,Adelaide,184,1,1
+2015-08-22,Australia,Ireland,Dublin,186,1,1
+2012-12-28,India,Pakistan,Ahmedabad,192,1,1
+2024-05-21,Bangladesh,United States of America,Houston,153,0,1
+2013-06-25,New Zealand,England,London,201,1,1
+2020-02-07,Germany,Oman,Al Amarat,124,1,1
+2014-09-05,Australia,Pakistan,Gold Coast,139,1,1
+2023-07-27,Scotland,Denmark,Edinburgh,159,1,1
+2018-03-28,England,Australia,Mumbai,96,0,1
+2023-10-11,Ghana,Nigeria,Lagos,109,0,1
+2012-09-30,Pakistan,India,Colombo,128,0,1
+2024-05-19,England,Pakistan,Leeds,176,1,1
+2022-02-22,United Arab Emirates,Nepal,Al Amarat,175,1,1
+2024-07-24,Bangladesh,Malaysia,Dambulla,191,1,1
+2022-09-12,Zimbabwe,United Arab Emirates,Dubai,152,1,1
+2019-10-07,Netherlands,Nepal,Al Amarat,133,0,1
+2022-05-28,Sri Lanka,Pakistan,Karachi,107,0,1
+2016-03-28,Sri Lanka,South Africa,Bangalore,114,1,1
+2023-04-20,New Zealand,Pakistan,Rawalpindi,164,0,1
+2023-11-20,Cambodia,Indonesia,Bali,138,0,1
+2018-09-28,South Africa,West Indies,Trinidad,101,0,1
+2022-09-11,Vanuatu,Cook Islands,Port Vila,127,0,1
+2023-04-30,Namibia,United Arab Emirates,Windhoek,78,1,1
+2013-08-27,England,Australia,Chelmsford,146,1,1
+2023-03-12,Hong Kong,Malaysia,Mong Kok,182,1,1
+2021-06-30,West Indies,Pakistan,North Sound,136,1,1
+2024-10-26,Singapore,Kuwait,Singapore,85,0,1
+2022-03-26,Oman,Qatar,Al Amarat,97,1,1
+2021-07-26,Ireland,Netherlands,Dublin,160,1,1
+2022-10-25,Sri Lanka,Australia,Perth,157,0,1
+2022-05-14,Bulgaria,Malta,Marsa,204,0,1
+2023-01-29,New Zealand,India,Lucknow,99,0,1
+2011-10-11,West Indies,Bangladesh,Mirpur,132,0,1
+2019-03-04,England,India,Guwahati,160,1,1
+2023-02-14,Bangladesh,Australia,Gqeberha,107,0,1
+2023-07-11,Malta,Luxembourg,Marsa,179,1,1
+2023-11-24,Uganda,Namibia,Windhoek,114,0,1
+2021-03-18,India,England,Ahmedabad,185,1,1
+2019-03-08,England,West Indies,Basseterre,182,1,1
+2024-09-16,South Africa,Pakistan,Multan,132,1,1
+2023-04-08,Sri Lanka,New Zealand,Queenstown,182,0,1
+2015-05-22,Zimbabwe,Pakistan,Lahore,172,0,1
+2022-04-01,Malaysia,Papua New Guinea,Kirtipur,196,0,1
+2024-05-31,Malawi,Rwanda,Kigali City,45,0,1
+2012-09-28,India,Australia,Colombo,140,0,1
+2016-03-21,Australia,New Zealand,Nagpur,103,0,1
+2023-09-19,Bahrain,Oman,Doha,123,1,1
+2019-07-14,Nepal,Malaysia,Kuala Lumpur,173,1,1
+2016-02-16,United Arab Emirates,Ireland,Abu Dhabi,133,1,1
+2013-11-02,Sri Lanka,South Africa,Potchefstroom,138,1,1
+2006-12-01,South Africa,India,Johannesburg,126,0,1
+2013-02-13,West Indies,Australia,Brisbane,191,1,1
+2022-04-02,Nepal,Malaysia,Kirtipur,223,1,1
+2024-06-29,Rwanda,Kenya,Nairobi,125,0,1
+2019-02-24,Hong Kong,Nepal,Bangkok,62,0,1
+2009-03-27,Australia,South Africa,Johannesburg,166,0,1
+2023-02-01,India,New Zealand,Ahmedabad,234,1,1
+2017-09-15,Pakistan,ICC World XI,Lahore,183,1,1
+2019-05-25,Germany,Italy,Utrecht,130,0,1
+2021-03-16,India,England,Ahmedabad,156,0,1
+2018-02-21,India,South Africa,Centurion,188,0,1
+2019-03-10,West Indies,England,Basseterre,71,0,1
+2014-03-16,Nepal,Hong Kong,Chittagong,149,1,1
+2022-06-26,Serbia,Bulgaria,Sofia,242,0,1
+2022-12-11,Australia,India,Navi Mumbai,187,0,1
+2019-06-29,Scotland,Germany,Murcia,168,1,1
+2022-04-22,Zimbabwe,Uganda,Windhoek,127,1,1
+2021-07-02,West Indies,Pakistan,Coolidge,125,1,1
+2024-10-27,Myanmar,Singapore,Singapore,122,1,1
+2023-02-16,Sri Lanka,Australia,Gqeberha,112,0,1
+2015-07-15,Ireland,Papua New Guinea,Belfast,123,0,1
+2014-03-22,England,New Zealand,Chattogram,172,0,1
+2024-03-31,Zimbabwe,Papua New Guinea,Harare,119,0,1
+2022-10-20,United Arab Emirates,Namibia,Geelong,148,1,1
+2013-08-29,Australia,England,Southampton,127,0,1
+2021-09-17,Zimbabwe,Scotland,Edinburgh,136,1,1
+2012-07-01,West Indies,New Zealand,Lauderhill,177,1,1
+2023-02-24,Spain,Isle of Man,Murcia,151,0,1
+2022-05-26,Sri Lanka,Pakistan,Karachi,102,0,1
+2016-03-03,United Arab Emirates,India,Mirpur,81,0,1
+2018-05-19,South Africa,Bangladesh,Bloemfontein,169,1,1
+2023-04-17,New Zealand,Pakistan,Lahore,163,1,1
+2015-01-14,South Africa,West Indies,Durban,195,1,1
+2009-02-25,India,New Zealand,Christchurch,162,0,1
+2018-03-26,Australia,India,Mumbai,186,1,1
+2019-04-01,Botswana,Namibia,Windhoek,50,0,1
+2021-04-03,Uganda,Namibia,Windhoek,134,0,1
+2013-06-27,England,New Zealand,London,2,0,1
+2012-06-01,Sri Lanka,Pakistan,Hambantota,132,1,1
+2020-02-05,Oman,Germany,Al Amarat,99,0,1
+2021-04-25,Pakistan,Zimbabwe,Harare,165,1,1
+2023-03-27,Bangladesh,Ireland,Chattogram,207,1,1
+2016-01-10,Sri Lanka,New Zealand,Auckland,142,0,1
+2024-01-09,India,Australia,Navi Mumbai,147,0,1
+2007-06-29,West Indies,England,London,169,0,1
+2012-12-25,India,Pakistan,Bangalore,133,0,1
+2020-01-24,New Zealand,India,Auckland,203,0,1
+2024-05-28,Netherlands,Italy,Schiedam,178,1,1
+2023-12-21,England,West Indies,Tarouba,132,0,1
+2022-09-02,Pakistan,Hong Kong,Sharjah,193,1,1
+2017-01-20,South Africa,Sri Lanka,Centurion,126,1,1
+2022-05-22,Zimbabwe,Namibia,Bulawayo,157,0,1
+2018-06-27,India,Ireland,Dublin,208,1,1
+2021-06-09,Rwanda,Nigeria,Kigali City,108,1,1
+2019-05-12,Zimbabwe,Namibia,Harare,114,1,1
+2006-12-22,New Zealand,Sri Lanka,Wellington,162,0,1
+2024-06-20,Bangladesh,Australia,North Sound,140,0,1
+2015-07-05,South Africa,Bangladesh,Mirpur,148,1,1
+2022-08-01,India,West Indies,Basseterre,138,0,1
+2023-07-01,England,Australia,Birmingham,153,0,1
+2022-10-06,West Indies,New Zealand,North Sound,101,0,1
+2018-11-21,Australia,India,Brisbane,158,1,1
+2020-12-04,India,Australia,Canberra,161,1,1
+2011-10-16,Australia,South Africa,Johannesburg,147,0,1
+2015-07-13,Nepal,Ireland,Belfast,53,0,1
+2008-12-26,New Zealand,West Indies,Auckland,155,0,1
+2009-08-02,Bangladesh,West Indies,St Kitts,118,0,1
+2021-08-18,Ghana,Rwanda,Kigali City,164,0,1
+2023-07-06,Ireland,West Indies,Gros Islet,113,0,1
+2024-04-07,Namibia,Oman,Al Amarat,212,1,1
+2023-09-28,Qatar,Kuwait,Doha,123,0,1
+2023-04-10,Portugal,Gibraltar,Albergaria,208,1,1
+2014-03-14,South Africa,Australia,Centurion,128,0,1
+2012-09-04,Pakistan,England,Loughborough,87,0,1
+2024-10-14,New Zealand,Pakistan,Dubai,110,1,1
+2021-02-25,New Zealand,Australia,Dunedin,219,1,1
+2024-08-15,Scotland,Papua New Guinea,Amstelveen,117,1,1
+2019-09-27,Nepal,Zimbabwe,Singapore,132,0,1
+2023-06-04,Malaysia,Nepal,Bangi,109,0,1
+2021-08-31,South Africa,West Indies,North Sound,135,0,1
+2024-03-16,Papua New Guinea,Malaysia,Kuala Lumpur,206,1,1
+2013-11-23,Netherlands,Kenya,Dubai,130,1,1
+2006-02-24,South Africa,Australia,Johannesburg,201,1,1
+2023-01-26,Pakistan,Australia,Hobart,96,0,1
+2016-02-03,Netherlands,United Arab Emirates,Dubai,157,1,1
+2022-04-08,Uganda,Namibia,Windhoek,127,0,1
+2017-01-03,Bangladesh,New Zealand,Napier,141,0,1
+2012-09-19,Ireland,Australia,Colombo,123,0,1
+2018-07-29,Netherlands,Nepal,London,174,0,1
+2023-01-30,West Indies,India,East London,94,0,1
+2017-12-24,Sri Lanka,India,Mumbai,135,0,1
+2018-03-18,Bangladesh,India,Colombo,166,0,1
+2008-06-20,Australia,West Indies,Barbados,97,0,1
+2009-06-05,England,Netherlands,London,162,0,1
+2022-10-30,India,South Africa,Perth,133,0,1
+2021-07-30,Ireland,Netherlands,Dublin,101,0,1
+2024-03-29,New Zealand,England,Wellington,136,0,1
+2019-09-30,Sri Lanka,Australia,Sydney,84,0,1
+2019-08-29,Singapore,Malaysia,Singapore,91,0,1
+2019-09-02,Bangladesh,Papua New Guinea,Dundee,103,1,1
+2009-11-15,South Africa,England,Centurion,241,1,1
+2006-06-15,Sri Lanka,England,Southampton,163,1,1
+2015-10-02,India,South Africa,Dharmasala,199,0,1
+2015-08-31,Australia,England,Cardiff,111,0,1
+2008-02-07,England,New Zealand,Christchurch,193,1,1
+2021-11-19,New Zealand,India,Ranchi,153,0,1
+2019-11-14,West Indies,India,Providence,59,0,1
+2024-02-05,Kuwait,Malaysia,Johor,98,0,1
+2023-01-15,Ireland,Zimbabwe,Harare,141,0,1
+2023-12-05,Pakistan,New Zealand,Dunedin,137,1,1
+2021-06-23,Sri Lanka,England,Cardiff,129,0,1
+2022-08-29,Kenya,Nepal,Nairobi,101,1,1
+2013-03-15,Kenya,Canada,Dubai,126,0,1
+2023-08-18,Ireland,India,Dublin,139,0,1
+2021-02-14,South Africa,Pakistan,Lahore,164,0,1
+2022-08-10,New Zealand,West Indies,Kingston,185,1,1
+2021-07-20,Pakistan,England,Manchester,154,0,1
+2016-03-01,Sri Lanka,India,Mirpur,138,0,1
+2018-03-10,Sri Lanka,Bangladesh,Colombo,214,0,1
+2014-02-14,Bangladesh,Sri Lanka,Chittagong,120,0,1
+2021-12-22,United States of America,Ireland,Lauderhill,188,1,1
+2011-11-25,Sri Lanka,Pakistan,Abu Dhabi,141,0,1
+2012-02-19,New Zealand,South Africa,Hamilton,173,0,1
+2011-04-21,West Indies,Pakistan,St Lucia,150,1,1
+2010-12-26,Pakistan,New Zealand,Auckland,143,0,1
+2022-09-28,West Indies,New Zealand,North Sound,115,1,1
+2014-10-23,Sri Lanka,South Africa,Colombo,101,1,1
+2023-10-21,Nepal,Hong Kong,Kathmandu,213,1,1
+2022-11-13,Pakistan,England,Melbourne,137,0,1
+2012-09-13,England,West Indies,Northampton,103,1,1
+2011-10-13,South Africa,Australia,Cape Town,146,0,1
+2024-05-14,Ireland,Pakistan,Dublin,178,0,1
+2015-04-24,Pakistan,Bangladesh,Mirpur,141,0,1
+2013-07-27,West Indies,Pakistan,St Vincent,152,0,1
+2018-09-29,New Zealand,Australia,Sydney,162,0,1
+2019-12-09,Maldives,Nepal,Kirtipur,94,0,1
+2024-10-07,South Africa,England,Sharjah,124,0,1
+2021-08-01,West Indies,Pakistan,Providence,15,0,1
+2012-02-01,Australia,India,Sydney,171,1,1
+2024-05-26,South Africa,West Indies,Kingston,163,0,1
+2022-02-15,Sri Lanka,Australia,Canberra,121,0,1
+2011-09-23,West Indies,England,London,125,0,1
+2024-03-23,Namibia,Zimbabwe,Accra,113,0,1
+2011-06-26,England,India,Taunton,134,1,1
+2012-10-04,New Zealand,England,Colombo,93,0,1
+2019-09-24,India,South Africa,Surat,130,1,1
+2022-02-16,West Indies,India,Kolkata,157,0,1
+2023-08-03,West Indies,India,Tarouba,149,1,1
+2020-03-11,Zimbabwe,Bangladesh,Dhaka,119,0,1
+2022-09-27,Bangladesh,United Arab Emirates,Dubai,169,1,1
+2022-09-01,Bangladesh,Sri Lanka,Dubai,183,0,1
+2013-07-31,Pakistan,Sri Lanka,Dublin,112,0,1
+2020-08-28,England,Pakistan,Manchester,131,0,1
+2018-10-25,Australia,Pakistan,Kuala Lumpur,195,1,1
+2019-12-17,England,Pakistan,Kuala Lumpur,154,1,1
+2021-11-16,Nepal,Qatar,Doha,146,1,1
+2021-07-24,South Africa,Ireland,Belfast,189,1,1
+2013-11-20,South Africa,Pakistan,Johannesburg,153,1,1
+2017-06-23,South Africa,England,Taunton,174,1,1
+2007-06-28,West Indies,England,London,208,1,1
+2021-08-03,Bangladesh,Australia,Dhaka,131,1,1
+2022-04-29,United Arab Emirates,Hong Kong,Ajman,121,1,1
+2013-07-16,Pakistan,Ireland,Dublin,148,1,1
+2020-02-04,Germany,Oman,Al Amarat,172,1,1
+2018-12-17,Bangladesh,West Indies,Sylhet,129,0,1
+2012-09-22,South Africa,Sri Lanka,Hambantota,78,1,1
+2019-12-02,Maldives,Nepal,Pokhara,16,0,1
+2023-09-23,Malaysia,Papua New Guinea,Kuala Lumpur,81,0,1
+2017-01-14,Scotland,Hong Kong,Abu Dhabi,189,1,1
+2021-04-22,Nepal,Malaysia,Kirtipur,217,1,1
+2023-10-10,Nigeria,Ghana,Lagos,142,1,1
+2024-07-21,India,United Arab Emirates,Dambulla,201,1,1
+2020-03-04,West Indies,Sri Lanka,Kandy,196,1,1
+2017-03-26,West Indies,Pakistan,Barbados,111,0,1
+2023-08-15,Guernsey,Germany,Deventer,172,1,1
+2020-08-29,Belgium,Luxembourg,Walferdange,165,1,1
+2022-10-08,Sri Lanka,Malaysia,Sylhet,105,1,1
+2019-10-06,Oman,Ireland,Al Amarat,173,1,1
+2023-05-09,Sri Lanka,Bangladesh,Colombo,145,0,1
+2023-01-03,India,Sri Lanka,Mumbai,162,1,1
+2018-01-25,Pakistan,New Zealand,Auckland,201,1,1
+2023-02-20,India,Ireland,Gqeberha,155,1,1
+2023-05-18,Denmark,Finland,Brondby,175,1,1
+2021-10-30,Australia,England,Dubai,125,0,1
+2021-07-04,Pakistan,West Indies,North Sound,102,0,1
+2016-01-20,Zimbabwe,Bangladesh,Khulna,187,1,1
+2024-03-04,Sri Lanka,Bangladesh,Sylhet,206,1,1
+2017-09-16,West Indies,England,Chester-le-Street,176,1,1
+2019-03-09,England,India,Guwahati,119,1,1
+2018-02-15,Bangladesh,Sri Lanka,Dhaka,193,0,1
+2015-05-24,Zimbabwe,Pakistan,Lahore,175,0,1
+2023-04-02,Sri Lanka,New Zealand,Auckland,196,0,1
+2009-03-15,England,West Indies,Trinidad,121,0,1
+2024-05-22,Scotland,Netherlands,The Hague,158,1,1
+2018-01-01,New Zealand,West Indies,Mount Maunganui,102,0,1
+2012-09-23,India,England,Colombo,170,1,1
+2017-09-06,Sri Lanka,India,Colombo,170,0,1
+2021-04-18,Netherlands,Malaysia,Kirtipur,191,1,1
+2022-04-04,Nepal,Papua New Guinea,Kirtipur,168,1,1
+2009-09-04,New Zealand,Sri Lanka,Colombo,170,1,1
+2024-02-18,United Arab Emirates,Malaysia,Kuala Lumpur,105,1,1
+2022-08-21,United Arab Emirates,Kuwait,Al Amarat,173,0,1
+2019-07-13,Malaysia,Nepal,Kuala Lumpur,128,0,1
+2021-04-01,Australia,New Zealand,Auckland,14,0,1
+2019-08-25,Canada,United States of America,Hamilton,173,1,1
+2020-12-18,Pakistan,New Zealand,Auckland,153,0,1
+2023-07-09,Bangladesh,India,Dhaka,114,0,1
+2024-07-05,Kenya,Rwanda,Nairobi,182,1,1
+2017-11-17,England,Australia,Sydney,132,0,1
+2021-11-14,New Zealand,Australia,Dubai,172,0,1
+2021-08-28,Thailand,Zimbabwe,Harare,154,1,1
+2024-07-19,United Arab Emirates,Nepal,Dambulla,115,0,1
+2020-02-16,South Africa,England,Centurion,222,0,1
+2017-01-16,Hong Kong,Oman,Abu Dhabi,87,0,1
+2024-02-07,Indonesia,Thailand,Bangkok,131,0,1
+2021-11-01,England,Sri Lanka,Sharjah,163,1,1
+2022-08-13,Kuwait,Bahrain,Al Amarat,209,1,1
+2021-05-25,Ireland,Scotland,Belfast,137,1,1
+2023-12-08,Bangladesh,South Africa,Kimberley,94,0,1
+2006-01-09,Australia,South Africa,Brisbane,209,1,1
+2024-06-26,Sri Lanka,West Indies,Hambantota,89,0,1
+2013-09-14,Bangladesh,South Africa,Potchefstroom,84,0,1
+2022-03-28,Nepal,Papua New Guinea,Kirtipur,183,1,1
+2010-05-05,Australia,Bangladesh,Barbados,141,1,1
+2019-03-23,Vanuatu,Philippines,Port Moresby,156,1,1
+2024-02-03,Bhutan,Saudi Arabia,Bangkok,89,0,1
+2024-09-08,Zimbabwe,Namibia,Windhoek,101,0,1
+2021-08-09,Bangladesh,Australia,Dhaka,122,1,1
+2009-11-13,England,South Africa,Johannesburg,202,1,1
+2014-08-30,Pakistan,Australia,Gold Coast,92,0,1
+2018-08-05,Bangladesh,West Indies,Lauderhill,184,1,1
+2017-04-12,Papua New Guinea,United Arab Emirates,Abu Dhabi,102,0,1
+2009-02-10,Sri Lanka,India,Colombo,171,0,1
+2011-11-29,Pakistan,Bangladesh,Mirpur,135,1,1
+2014-03-09,West Indies,England,Barbados,170,1,1
+2023-01-19,India,South Africa,East London,147,1,1
+2007-10-20,Australia,India,Mumbai,166,0,1
+2024-08-10,Norway,Estonia,Oslo,109,1,1
+2024-08-20,Fiji,Cook Islands,Apia,173,1,1
+2015-09-30,Pakistan,Bangladesh,Karachi,124,1,1
+2018-06-23,England,South Africa,Taunton,160,0,1
+2023-02-09,Singapore,Cambodia,Phnom Penh,81,1,1
+2007-12-16,South Africa,West Indies,Port Elizabeth,58,0,1
+2019-08-09,Netherlands,Scotland,Deventer,86,0,1
+2013-08-02,South Africa,Sri Lanka,Colombo,115,1,1
+2021-02-03,Pakistan,South Africa,Durban,127,1,1
+2022-02-09,New Zealand,India,Queenstown,155,1,1
+2021-09-08,New Zealand,Bangladesh,Dhaka,93,0,1
+2019-08-12,Thailand,Scotland,Deventer,123,0,1
+2017-04-14,Papua New Guinea,United Arab Emirates,Abu Dhabi,128,0,1
+2021-10-15,Jersey,Germany,Almeria,137,1,1
+2021-04-10,South Africa,Pakistan,Johannesburg,188,0,1
+2019-08-04,India,West Indies,Lauderhill,167,1,1
+2022-11-15,Canada,Saudi Arabia,Al Amarat,194,1,1
+2018-10-09,South Africa,Zimbabwe,East London,160,1,1
+2019-05-28,West Indies,Ireland,Dublin,157,1,1
+2014-01-15,West Indies,New Zealand,Wellington,159,0,1
+2023-08-13,India,West Indies,Lauderhill,165,0,1
+2020-02-27,India,New Zealand,Melbourne,133,1,1
+2016-08-27,West Indies,India,Lauderhill,245,1,1
+2014-07-05,West Indies,New Zealand,Dominica,132,0,1
+2024-04-05,Namibia,Oman,Al Amarat,164,1,1
+2010-05-16,Australia,New Zealand,Barbados,106,1,1
+2022-11-29,Netherlands,Thailand,Chiang Mai,89,0,1
+2024-03-02,Netherlands,Nepal,Kirtipur,120,0,1
+2019-08-06,West Indies,India,Providence,146,0,1
+2019-05-26,West Indies,Ireland,Dublin,139,1,1
+2008-10-13,Pakistan,Sri Lanka,King City,132,0,1
+2018-08-14,South Africa,Sri Lanka,Colombo,98,0,1
+2023-08-12,West Indies,India,Lauderhill,178,0,1
+2010-05-20,South Africa,West Indies,Antigua,120,1,1
+2021-03-05,Australia,New Zealand,Wellington,156,1,1
+2022-06-27,India,Sri Lanka,Dambulla,138,0,1
+2019-02-08,India,New Zealand,Auckland,135,0,1
+2013-08-04,South Africa,Sri Lanka,Hambantota,145,1,1
+2007-09-02,Pakistan,Bangladesh,Nairobi,191,1,1
+2018-10-31,Pakistan,New Zealand,Abu Dhabi,148,1,1
+2023-02-10,Cambodia,Singapore,Phnom Penh,47,0,1
+2020-08-14,Germany,Austria,Lower Austria,198,1,1
+2012-09-20,Zimbabwe,South Africa,Hambantota,93,0,1
+2022-12-03,Thailand,Netherlands,Chiang Mai,126,1,1
+2008-11-05,South Africa,Bangladesh,Johannesburg,118,1,1
+2014-03-11,England,West Indies,Barbados,152,0,1
+2020-01-19,Ireland,West Indies,Basseterre,138,0,1
+2023-12-22,Philippines,Indonesia,Bali,158,1,1
+2018-08-04,Bangladesh,West Indies,Lauderhill,171,1,1
+2010-09-05,Pakistan,England,Cardiff,126,0,1
+2024-06-28,Sri Lanka,West Indies,Hambantota,141,0,1
+2022-03-29,Malaysia,Papua New Guinea,Kirtipur,180,1,1
+2019-09-14,West Indies,Australia,Bridgetown,106,0,1
+2016-02-25,Sri Lanka,United Arab Emirates,Mirpur,129,1,1
+2015-11-25,Oman,Hong Kong,Abu Dhabi,131,1,1
+2019-11-09,India,West Indies,Gros Islet,185,1,1
+2023-01-12,Ireland,Zimbabwe,Harare,114,0,1
+2022-09-05,Scotland,Ireland,Edinburgh,133,0,1
+2019-06-15,Guernsey,Germany,Castel,117,0,1
+2019-03-19,Sri Lanka,South Africa,Cape Town,134,0,1
+2020-02-14,England,South Africa,Durban,204,1,1
+2019-06-28,Malaysia,Maldives,Kuala Lumpur,123,0,1
+2020-01-10,India,Sri Lanka,Pune,201,1,1
+2015-11-11,West Indies,Sri Lanka,Colombo,162,1,1
+2016-02-27,Pakistan,India,Mirpur,83,0,1
+2016-11-21,New Zealand,Pakistan,Nelson,118,1,1
+2013-03-05,West Indies,Sri Lanka,Colombo,145,1,1
+2024-01-12,New Zealand,Pakistan,Auckland,226,1,1
+2014-03-20,Bangladesh,Hong Kong,Chittagong,108,0,1
+2024-10-31,Rwanda,Kenya,Kigali City,126,1,1
+2023-02-23,Australia,India,Cape Town,172,1,1
+2019-12-11,India,West Indies,Mumbai,240,1,1
+2017-01-29,India,England,Nagpur,144,1,1
+2022-08-22,United Arab Emirates,Singapore,Al Amarat,160,1,1
+2021-05-27,Scotland,Ireland,Belfast,99,0,1
+2023-03-28,West Indies,South Africa,Johannesburg,220,1,1
+2019-05-15,South Africa,Pakistan,Pretoria,119,0,1
+2023-02-22,Bermuda,Argentina,Buenos Aires,226,1,1
+2023-04-05,Sri Lanka,New Zealand,Dunedin,141,0,1
+2017-12-29,New Zealand,West Indies,Nelson,187,1,1
+2021-04-19,Malaysia,Nepal,Kirtipur,109,0,1
+2017-09-13,Pakistan,ICC World XI,Lahore,174,0,1
+2019-03-07,India,England,Guwahati,111,0,1
+2024-10-08,Hong Kong,Japan,Incheon,119,1,1
+2019-01-11,New Zealand,Sri Lanka,Auckland,179,1,1
+2021-04-16,South Africa,Pakistan,Centurion,144,0,1
+2014-03-25,West Indies,Bangladesh,Mirpur,171,1,1
+2022-10-26,Ireland,England,Melbourne,157,1,1
+2014-01-20,South Africa,Ireland,Doha,119,1,1
+2022-04-26,Namibia,Zimbabwe,Windhoek,70,0,1
+2023-01-05,Sri Lanka,India,Pune,206,1,1
+2018-01-28,Pakistan,New Zealand,Mount Maunganui,181,1,1
+2018-06-10,India,Bangladesh,Kuala Lumpur,112,0,1
+2024-10-21,Singapore,Myanmar,Singapore,90,0,1
+2012-10-03,Sri Lanka,India,Colombo,100,0,1
+2016-07-07,England,Pakistan,Chelmsford,170,1,1
+2023-05-11,Bangladesh,Sri Lanka,Colombo,100,0,1
+2024-01-21,Pakistan,New Zealand,Christchurch,134,1,1
+2020-02-06,South Africa,New Zealand,Hamilton,119,0,1
+2023-06-29,Austria,Germany,Deventer,114,0,1
+2015-05-25,Sri Lanka,West Indies,Colombo,124,0,1
+2010-05-19,South Africa,West Indies,Antigua,136,1,1
+2021-04-24,Nepal,Netherlands,Kirtipur,238,1,1
+2021-08-04,Australia,Bangladesh,Dhaka,121,0,1
+2018-10-05,New Zealand,Australia,Canberra,103,0,1
+2022-09-16,Ghana,Mozambique,Benoni,154,1,1
+2010-10-10,South Africa,Zimbabwe,Kimberley,194,1,1
+2020-09-27,New Zealand,Australia,Brisbane,128,0,1
+2005-10-21,South Africa,New Zealand,Johannesburg,133,0,1
+2015-07-12,United Arab Emirates,Netherlands,Edinburgh,119,0,1
+2007-11-23,New Zealand,South Africa,Johannesburg,129,0,1
+2017-01-22,South Africa,Sri Lanka,Johannesburg,113,0,1
+2020-03-09,Bangladesh,Zimbabwe,Dhaka,200,1,1
+2008-10-11,Sri Lanka,Pakistan,King City,137,0,1
+2022-08-31,India,Hong Kong,Dubai,192,1,1
+2017-10-10,India,Australia,Guwahati,118,0,1
+2019-05-23,Ghana,Uganda,Kampala,113,0,1
+2024-06-27,India,England,Providence,171,1,1
+2019-06-24,Thailand,Malaysia,Kuala Lumpur,113,0,1
+2008-01-18,West Indies,South Africa,Johannesburg,131,0,1
+2011-09-25,West Indies,England,London,113,1,1
+2016-02-12,India,Sri Lanka,Ranchi,196,1,1
+2020-09-23,England,West Indies,Derby,151,1,1
+2015-01-09,South Africa,West Indies,Cape Town,165,0,1
+2015-07-07,South Africa,Bangladesh,Mirpur,169,1,1
+2019-07-24,Malaysia,Nepal,Singapore,83,0,1
+2018-10-01,New Zealand,Australia,Brisbane,145,0,1
+2015-06-20,Ireland,Scotland,Londonderry,166,0,1
+2022-09-30,Pakistan,England,Lahore,169,0,1
+2018-09-25,India,Sri Lanka,FTZ Sports Complex,156,1,1
+2020-12-08,Australia,India,Sydney,186,1,1
+2018-07-03,England,India,Manchester,159,0,1
+2015-10-29,Pakistan,West Indies,Grenada,74,0,1
+2023-10-22,Hong Kong,United Arab Emirates,Kathmandu,149,0,1
+2022-11-10,India,England,Adelaide,168,0,1

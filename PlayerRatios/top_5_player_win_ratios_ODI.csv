@@ -1,0 +1,81 @@
+Player,Team,Win % w/ player,Games with player,Win % w/out player,Games without player,Ratio
+A Gardner,Australia,89.39,66,47.01,5644,1.9
+BL Mooney,Australia,86.96,69,47.01,5641,1.85
+AJ Healy,Australia,86.36,88,46.89,5622,1.84
+ML Schutt,Australia,85.33,75,46.99,5635,1.82
+MM Lanning,Australia,85.71,77,46.97,5633,1.82
+Liton Das,Bangladesh,53.09,81,47.42,5629,1.12
+Mustafizur Rahman,Bangladesh,51.04,96,47.43,5614,1.08
+Sabbir Rahman,Bangladesh,50,62,47.47,5648,1.05
+Naeem Islam,Bangladesh,49.02,51,47.48,5659,1.03
+Mehedi Hasan Miraz,Bangladesh,47.67,86,47.49,5624,1
+LE Plunkett,England,68.24,85,47.18,5625,1.45
+SJ Taylor,England,68.63,51,47.31,5659,1.45
+NR Sciver,England,67.95,78,47.21,5632,1.44
+HC Knight,England,67.29,107,47.12,5603,1.43
+DN Wyatt,England,67.06,85,47.2,5625,1.42
+KM Jadhav,India,74.65,71,47.15,5639,1.58
+JJ Bumrah,India,70.11,87,47.15,5623,1.49
+HH Pandya,India,70.24,84,47.16,5626,1.49
+Kuldeep Yadav,India,69.9,103,47.08,5607,1.48
+AT Rayudu,India,69.81,53,47.29,5657,1.48
+EC Joyce,Ireland,45,60,47.52,5650,0.95
+AR McBrine,Ireland,42.42,66,47.55,5644,0.89
+GC Wilson,Ireland,37.7,61,47.6,5649,0.79
+KJ O'Brien,Ireland,37.78,90,47.65,5620,0.79
+A Balbirnie,Ireland,37.8,82,47.64,5628,0.79
+Aasif Sheikh,Nepal,50.94,53,47.46,5657,1.07
+K Bhurtel,Nepal,50,54,47.47,5656,1.05
+S Lamichhane,Nepal,50,54,47.47,5656,1.05
+Sompal Kami,Nepal,50,56,47.47,5654,1.05
+RK Paudel,Nepal,48.44,64,47.48,5646,1.02
+MP O'Dowd,Netherlands,35.85,53,47.6,5657,0.75
+SA Edwards,Netherlands,35.85,53,47.6,5657,0.75
+L Ronchi,New Zealand,59.52,84,47.32,5626,1.26
+HM Nicholls,New Zealand,58.97,78,47.34,5632,1.25
+SP Fleming,New Zealand,58.82,68,47.36,5642,1.24
+C Munro,New Zealand,58.93,56,47.38,5654,1.24
+MJ Henry,New Zealand,58.75,80,47.34,5630,1.24
+Jatinder Singh,Oman,50.98,51,47.46,5659,1.07
+Yousuf Youhana,Pakistan,58.93,56,47.38,5654,1.24
+Fakhar Zaman,Pakistan,57.14,77,47.36,5633,1.21
+Umar Gul,Pakistan,56.67,120,47.3,5590,1.2
+Shadab Khan,Pakistan,56.92,65,47.39,5645,1.2
+Misbah-ul-Haq,Pakistan,56.38,149,47.26,5561,1.19
+TP Ura,Papua New Guinea,19.61,51,47.75,5659,0.41
+A Vala,Papua New Guinea,19.64,56,47.77,5654,0.41
+N Vanua,Papua New Guinea,19.61,51,47.75,5659,0.41
+CA Soper,Papua New Guinea,18,50,47.76,5660,0.38
+SM Sharif,Scotland,60,65,47.35,5645,1.27
+MA Leask,Scotland,57.14,70,47.38,5640,1.21
+MRJ Watt,Scotland,57.14,63,47.39,5647,1.21
+HG Munsey,Scotland,56.86,51,47.41,5659,1.2
+MH Cross,Scotland,52.94,85,47.41,5625,1.12
+JA Morkel,South Africa,69.23,52,47.3,5658,1.46
+CK Langeveldt,South Africa,66.13,62,47.29,5648,1.4
+DW Steyn,South Africa,63.71,124,47.14,5586,1.35
+S Ismail,South Africa,63.53,85,47.25,5625,1.34
+A Nel,South Africa,63.33,60,47.33,5650,1.34
+BAW Mendis,Sri Lanka,57.32,82,47.35,5628,1.21
+LPC Silva,Sri Lanka,55.93,59,47.41,5651,1.18
+HMRKB Herath,Sri Lanka,53.03,66,47.43,5644,1.12
+KIC Asalanka,Sri Lanka,52.63,57,47.44,5653,1.11
+ST Jayasuriya,Sri Lanka,51.49,134,47.4,5576,1.09
+Junaid Siddique,United Arab Emirates,45,100,47.54,5610,0.95
+V Aravind,United Arab Emirates,39.34,61,47.58,5649,0.83
+Rohan Mustafa,United Arab Emirates,37.33,75,47.63,5635,0.78
+Waseem Muhammad,United Arab Emirates,35.71,56,47.61,5654,0.75
+Zahoor Khan,United Arab Emirates,33.33,60,47.65,5650,0.7
+MD Patel,United States of America,50.91,55,47.46,5655,1.07
+SN Netravalkar,United States of America,50,52,47.47,5658,1.05
+SR Taylor,United States of America,40.18,112,47.64,5598,0.84
+BC Lara,West Indies,50.7,71,47.46,5639,1.07
+DJ Bravo,West Indies,44.52,146,47.57,5564,0.94
+DR Smith,West Indies,44.83,87,47.54,5623,0.94
+RR Sarwan,West Indies,43.33,120,47.58,5590,0.91
+S Chanderpaul,West Indies,41.23,114,47.62,5596,0.87
+CR Ervine,Zimbabwe,35.79,95,47.69,5615,0.75
+TL Chatara,Zimbabwe,30,70,47.71,5640,0.63
+RW Price,Zimbabwe,28.21,78,47.76,5632,0.59
+Sikandar Raza,Zimbabwe,27.73,119,47.92,5591,0.58
+CB Mpofu,Zimbabwe,26.15,65,47.74,5645,0.55

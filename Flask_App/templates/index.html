@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricket Match Prediction</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <script>
+        const teamsODI = ['India', 'South Africa', 'New Zealand', 'Australia', 'Nepal', 'United States of America', 'United Arab Emirates', 'West Indies', 'Papua New Guinea', 'Zimbabwe', 'Namibia', 'Sri Lanka', 'England', 'Pakistan', 'Kenya', 'Bangladesh', 'Netherlands', 'Bermuda', 'Ireland', 'Scotland', 'Oman', 'Thailand', 'Hong Kong', 'Canada', 'Jersey'];
+        const teamsT20 = ['India', 'Sri Lanka', 'West Indies', 'South Africa', 'Scotland', 'Bermuda', 'Mongolia', 'China', 'New Zealand', 'England', 'Australia', 'Estonia', 'Cyprus', 'Portugal', 'Spain', 'Kuwait', 'Hong Kong', 'Ireland', 'Swaziland', 'Seychelles', 'Belize', 'United States of America', 'Tanzania', 'Uganda', 'United Arab Emirates', 'Nepal', 'Thailand', 'Bangladesh', 'Norway', 'Guernsey', 'Kenya', 'Nigeria', 'Denmark', 'Italy', 'Netherlands', 'Finland', 'Sweden', 'Maldives', 'Japan', 'Vanuatu', 'Bahrain', 'Namibia', 'Croatia', 'Zimbabwe', 'Pakistan', 'Malaysia', 'Romania', 'Czech Republic','Indonesia', 'Philippines', 'Gibraltar', 'Rwanda', 'Singapore', 'Oman', 'Bulgaria', 'Malta', 'Switzerland', 'Myanmar', 'Serbia', 'Bhutan', 'Cook Islands', 'Austria', 'Germany', 'Samoa', 'Eswatini', 'Brazil', 'Ghana', 'Qatar', 'Mozambique', 'Lesotho', 'Belgium', 'Bahamas', 'Argentina', 'Sierra Leone', 'France', 'Cameroon', 'Malawi', 'Jersey', 'Panama', 'Hungary', 'Isle of Man', 'Gambia', 'Papua New Guinea', 'Canada', 'Mexico', 'Costa Rica', 'Luxembourg', 'Fiji', 'Botswana', 'Greece', 'Cayman Islands', 'Saudi Arabia', 'South Korea', 'St Helena', 'Cambodia', 'Mali', 'Israel', 'Barbados', 'Slovenia', 'Turkey', 'Iran'];
+        const citiesODI = ['Gqeberha', 'Guwahati', 'Perth', 'Lucknow', 'Pearland', 'Sharjah', 'Jaipur', 'Windhoek', 'Bloemfontein', 'Port Moresby', 'Cuttack', 'Chester-le-Street', 'Leicester', 'Melbourne', 'Ranchi', 'Lahore', 'Johannesburg', 'The Hague', 'Brisbane', 'Port Elizabeth', 'Hyderabad', 'Mirpur', 'Chittagong', 'Christchurch', 'Hambantota', 'Trinidad', 'Pune', 'Birmingham', 'Manchester', 'Gwalior', 'Antigua', 'Kirtipur', 'Karachi', 'Harare', 'Mount Maunganui', 'Deventer', 'Canterbury', 'Bristol', 'Coolidge', 'Southampton', 'Wellington', 'Leeds', 'Abu Dhabi', 'Aberdeen', 'Barbados', 'Mumbai', 'Bangkok', 'Potchefstroom', 'Belfast', 'Hamilton', 'Edinburgh', 'Wormsley', 'St Kitts', 'St Vincent', 'Vadodara', 'Kanpur', 'Auckland', 'Bulawayo', 'Colombo', 'Adelaide', 'Dhaka', 'Dublin', 'Chandigarh', 'Durban', 'Canberra', 'Kuala Lumpur', 'London', 'Bengaluru', 'Centurion', 'Nairobi', 'Benoni', 'Kandy', 'Bridgetown', 'Delhi', 'North Sound', 'Galle', 'Hobart', 'East London', 'Almeria', 'Dubai', 'Port of Spain', 'Bangalore', 'Grenada', 'Khulna', 'Kolkata', 'Glasgow', 'Dharamsala', 'Visakhapatnam', 'Chiang Mai', 'Peshawar', 'Dominica', 'Dunedin', 'St Lucia', 'Lincoln', 'Ahmedabad', 'Bogra', 'Chattogram', 'Chennai', 'Queenstown', 'Sydney', 'Utrecht', 'Margao', 'Nottingham', 'Guyana', 'Al Amarat', 'Lauderhill', 'Northampton', 'Paarl', 'Kathmandu', 'Taunton', 'Cape Town', 'Kimberley', 'Dambulla', 'Amstelveen', 'Faisalabad', 'King City', 'Sylhet', 'Nagpur', 'Rotterdam', 'Coffs Harbour', 'Indore', 'Rawalpindi', 'Toronto', 'Nelson', 'Gros Islet', 'Jamaica', 'Napier', 'Darwin', 'Cardiff', 'Multan', 'Rajkot', 'Worcester', 'Pretoria', 'Fatullah', 'Kingston', 'Chelmsford', 'Pietermaritzburg', 'Dallas', 'Mackay', 'Dundee', 'Kurunegala', 'Townsville', 'Cairns', 'Hove', 'Derby', 'Bready', 'Ayr', 'Scarborough', 'Loughborough', 'Thiruvananthapuram', 'Hong Kong', 'Kochi', 'Kingstown', 'Providence', 'Katunayake', 'Raipur', 'Bowral', 'Whangarei', 'Sind', 'Dharmasala', 'Jamshedpur', 'Brighton', 'Faridabad', 'Tarouba'];
+        const citiesT20 = ['Kandy', 'Centurion', 'Dubai', 'Hangzhou', 'Wellington', 'Delhi', 'Episkopi', 'Ghent', 'Al Amarat', 'London', 'Kigali City', 'Coolidge', 'Hobart', 'Antigua', 'Bristol', 'Kirtipur', 'Kuala Lumpur', 'Dunedin', 'Oslo', 'Potchefstroom', 'Castel', 'Chennai', 'Chiang Mai', 'Auckland', 'Kerava', 'St Lucia', 'Colombo', 'Pokhara', 'Canberra', 'The Hague', 'Port Moresby', 'Mirpur', 'Accra', 'Windhoek', 'Cape Town', 'Sharjah', 'Sylhet', 'Belfast', 'Bangkok', 'Marsa', 'Lahore', 'Durban', 'Incheon', 'Edinburgh', 'Murcia', 'Sydney', 'Bangi', 'Christchurch', 'Southampton', 'Paarl', 'Singapore', 'Bali', 'Apia', 'Rajkot', 'Arbroath', 'Deventer', 'Port Vila', 'Dublin', 'Abu Dhabi', 'Dar-es-Salaam', 'Mumbai', 'Gaborone', 'Walferdange', 'Doha', 'Guyana', 'Dambulla', 'North Sound', 'Lagos', 'Barbados', 'Bangalore', 'St Saviour', 'Los Angeles', 'Buenos Aires', 'Lower Austria', 'Brisbane', 'Nairobi', 'Krefeld', 'Ilfov County', 'Bloemfontein', 'Cardiff', 'Ajman', 'Dhaka', 'Prague', 'Birmingham', 'Basseterre', 'Nottingham', 'Khulna', 'Ranchi', 'Manchester', 'Sano', 'Thiruvananthapuram', 'Harare', 'King City', 'Rome', 'Indore', 'Benoni', 'Providence', 'Chelmsford', 'Guacima', 'Perth', 'Hong Kong', 'Port Soif', 'Gibraltar', 'Spinaceto', 'Derby', 'Bridgetown', 'Karachi', 'St Vincent', 'Bulawayo', 'Johannesburg', 'Kathmandu', 'Brondby', 'New York', 'Bengaluru', 'Lauderhill', 'Napier', 'Chester-le-Street', 'Nagpur', 'Almeria', 'Amstelveen', 'Utrecht', 'Vantaa', 'Mount Maunganui', 'Mong Kok', 'Entebbe', 'Taunton', 'Brighton', 'East London', 'Lucknow', 'Hamilton', 'Waterloo', 'Dharamsala', 'Nelson', 'Sofia', 'New Plymouth', 'Koge', 'Geelong', 'Phnom Penh', 'Belgrade', 'Port Elizabeth', 'Hambantota', 'Chandigarh', 'Dundee', 'Guwahati', 'Melbourne', 'Kolkata', 'St Clement', 'Pune', 'Hyderabad', 'Kimberley', 'Trinidad', 'Canterbury', 'Szodliget', 'Kingstown', 'Gelephu', 'Rotterdam', 'Hove', 'Houston', 'Tarouba', 'Surat', 'Pietermaritzburg', 'Roseau', 'Londonderry', 'Dallas', 'Gqeberha', 'Chittagong', 'Kanpur', 'Queenstown', 'Gros Islet', 'Wong Nai Chung Gap', 'Fatullah', 'Ahmedabad', 'Worcester', 'Bready', 'Gold Coast', 'Osaka', 'Corfu', 'Victoria', 'Kampala', 'Jaipur', 'Jamaica', 'Cuttack', 'St Peter Port', 'Mackay', 'Leeds', 'Adelaide', 'Dreux', 'Albergaria', 'Townsville', 'Raipur', 'Mohali', 'Multan', 'Copenhagen', 'Zagreb', 'Rawalpindi', 'Carrara', 'Northampton', 'Naucalpan', 'Kingston', 'Chattogram', 'Navi Mumbai', 'Kolsva', 'Visakhapatnam', 'Jinja', 'Johor', 'St Kitts', 'Loughborough', 'Dominica', 'Schiedam', 'Gwalior', 'Seropedica', 'Derry', 'Dharmasala', 'Blantyre', 'Pretoria', 'Grenada'];
+
+
+        function updateFormFields() {
+        const matchType = document.getElementById('match_type').value;
+        const inningsChoice = document.getElementById('innings_choice').value;
+
+        const commonFields = document.getElementById('common_fields');
+        const targetScoreField = document.getElementById('target_score_field');
+
+        const teams = matchType === 'ODI' ? teamsODI : teamsT20;
+        const cities = matchType === 'ODI' ? citiesODI : citiesT20;
+
+    // Populate team dropdowns
+        const teamDropdowns = document.querySelectorAll('.team_dropdown');
+        teamDropdowns.forEach(dropdown => {
+            dropdown.innerHTML = '<option value="">Select Team</option>';
+            teams.forEach(team => {
+                dropdown.innerHTML += `<option value="${team}">${team}</option>`;
+            });
+        });
+
+    // Populate city dropdown
+        const cityDropdown = document.getElementById('city');
+        cityDropdown.innerHTML = '<option value="">Select City</option>';
+        cities.forEach(city => {
+            cityDropdown.innerHTML += `<option value="${city}">${city}</option>`;
+        });
+
+    // Populate balls left based on match type
+        const ballsDropdown = document.getElementById('balls_left');
+        const maxBalls = matchType === 'ODI' ? 300 : 120;
+        ballsDropdown.innerHTML = '<option value="">Select Balls Left</option>';
+        for (let i = 1; i <= maxBalls; i++) {
+            ballsDropdown.innerHTML += `<option value="${i}">${i} ball${i > 1 ? 's' : ''}</option>`;
+        }
+
+    // Toggle Target Score field visibility
+        targetScoreField.classList.toggle('hidden', inningsChoice !== 'chasing');
+
+    // Show common fields when match type is selected
+        commonFields.classList.toggle('hidden', !matchType);
+
+    // Trigger the fetchTopScorers if all fields are populated
+        const team1 = document.getElementById('batting_team').value;
+        const team2 = document.getElementById('bowling_team').value;
+
+        if (matchType && team1 && team2) {
+            fetchTopScorers();
+            fetchTopRatios(); // Only call fetchTopScorers if all fields are filled
+        }
+    }
+
+
+        function populateWicketsDropdown() {
+            const wicketsDropdown = document.getElementById('wickets_left');
+            wicketsDropdown.innerHTML = '<option value="">Select Wickets Left</option>';
+            for (let i = 0; i <= 10; i++) {
+                wicketsDropdown.innerHTML += `<option value="${i}">${i}</option>`;
+            }
+        }
+
+        function calculateRunRate(runs, ballsLeft, maxBalls) {
+            const ballsPlayed = maxBalls - ballsLeft;
+            return ballsPlayed > 0 ? (runs / ballsPlayed * 6).toFixed(2) : "0.00";
+        }
+
+        function updateRunRate() {
+            const runs = parseFloat(document.getElementById('runs').value || 0);
+            const ballsLeft = parseInt(document.getElementById('balls_left').value || 0);
+            const matchType = document.getElementById('match_type').value;
+            const maxBalls = matchType === 'ODI' ? 300 : 120;
+
+            const runRate = calculateRunRate(runs, ballsLeft, maxBalls);
+            document.getElementById('run_rate').value = runRate;
+        }
+
+        function fetchTopScorers() {
+            const matchType = document.getElementById('match_type').value;
+            const team1 = document.getElementById('batting_team').value;
+            const team2 = document.getElementById('bowling_team').value;
+
+            if (matchType && team1 && team2) {
+                fetch('/top_scorers', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ match_type: matchType, batting_team: team1, bowling_team: team2 })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    displayTopScorers('batting_team_scorers', data.team1, team1);
+                    displayTopScorers('bowling_team_scorers', data.team2, team2);
+                })
+                .catch(error => console.error('Error fetching top scorers:', error));
+            }
+        }
+
+        function displayTopScorers(elementId, players, teamName) {
+            const container = document.getElementById(elementId);
+            container.innerHTML = `<h3>Top Scorers - ${teamName}</h3>`;
+            if (players.length === 0) {
+                container.innerHTML += '<p>No data available</p>';
+                return;
+            }
+
+            const table = document.createElement('table');
+            table.innerHTML = `
+                <tr><th>Player</th><th>Total Runs</th></tr>
+            `;
+
+            players.forEach(player => {
+                const row = document.createElement('tr');
+                row.innerHTML = `<td>${player.Player}</td><td>${player['Total Runs']}</td>`;
+                table.appendChild(row);
+            });
+
+            container.appendChild(table);
+        }
+
+        function fetchTopRatios() {
+    const matchType = document.getElementById('match_type').value;
+    const team1 = document.getElementById('batting_team').value;
+    const team2 = document.getElementById('bowling_team').value;
+
+    // Ensure all necessary fields are selected
+    if (matchType && team1 && team2) {
+        fetch('/top_ratios', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ match_type: matchType, batting_team: team1, bowling_team: team2 })
+        })
+        .then(response => response.json())
+        .then(data => {
+            // Debugging: log the received data to inspect its structure
+            console.log('Received data:', data);
+
+            // Safely access and pass data to displayTopRatios function
+            const team1Players = data?.team1 || [];  // Use optional chaining to safely access team1
+            const team2Players = data?.team2 || [];  // Use optional chaining to safely access team2
+
+            // Call the display function only if the element exists
+            displayTopRatios('batting_team_ratios', team1Players, team1);
+            displayTopRatios('bowling_team_ratios', team2Players, team2);
+        })
+        .catch(error => {
+            console.error('Error fetching top ratios:', error);
+        });
+    }
+}
+
+
+    function displayTopRatios(elementId, players = [], teamName) {
+    const container = document.getElementById(elementId);
+    container.innerHTML = `<h3>Top Ratios - ${teamName}</h3>`;
+
+    if (!players || players.length === 0) {
+        container.innerHTML += '<p>No data available</p>';
+        return;
+    }
+
+    const table = document.createElement('table');
+    table.innerHTML = `
+        <tr>
+            <th>Player</th>
+            <th>Win % w/ player</th>
+            <th>Win % w/out player</th>
+            <th>Ratio</th>
+        </tr>
+    `;
+
+    players.forEach(player => {
+        const row = document.createElement('tr');
+        row.innerHTML = `
+            <td>${player.Player}</td>
+            <td>${player['Win % w/ player']}</td>
+            <td>${player['Win % w/out player']}</td>
+            <td>${player.Ratio}</td>
+        `;
+        table.appendChild(row);
+    });
+
+    container.appendChild(table);
+}
+
+
+
+        document.addEventListener('DOMContentLoaded', () => {
+    populateWicketsDropdown();
+    updateFormFields();
+
+    // Add event listeners for automatic run rate updates
+    document.getElementById('runs').addEventListener('input', updateRunRate);
+    document.getElementById('balls_left').addEventListener('change', updateRunRate);
+
+    document.getElementById('batting_team').addEventListener('change', function() {
+        fetchTopScorers();  // Call fetchTopScorers when batting team changes
+    });
+    document.getElementById('bowling_team').addEventListener('change', function() {
+        fetchTopScorers();  // Call fetchTopScorers when bowling team changes
+    });
+
+    document.getElementById('batting_team').addEventListener('change', function() {
+        fetchTopRatios();  // Call fetchTopScorers when batting team changes
+    });
+    document.getElementById('bowling_team').addEventListener('change', function() {
+        fetchTopRatios();  // Call fetchTopScorers when bowling team changes
+    });
+
+    // Handle form submission for prediction
+    document.getElementById('prediction-form').addEventListener('submit', function(event) {
+        event.preventDefault(); // Prevent the default form submission
+
+        const formData = new FormData(this); // Capture the form data
+        const formObject = {}; // Create an object to store the form data
+
+        // Convert FormData to a plain JavaScript object
+        formData.forEach((value, key) => {
+            if (key === 'target_score' && value === '') {
+                // If target_score is empty, don't include it in the form data
+                return;
+            }
+            formObject[key] = value;
+        });
+
+        console.log('Form Data (Object):', formObject); // Log the processed form data
+
+        // Fetch call to send data to the backend
+        fetch('/predict', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json', // Inform the server to expect JSON
+            },
+            body: JSON.stringify(formObject), // Convert the object to JSON for sending
+        })
+        .then(response => response.json()) // Assuming the response is in JSON
+        .then(data => {
+            console.log('Prediction Result:', data); // Handle the response
+
+            // Display the results in the prediction-result div
+            const resultDiv = document.getElementById('prediction-result');
+            if (data.predicted_score !== null) {
+                resultDiv.innerHTML = `
+                    <strong>Predicted Final Score:</strong> ${data.predicted_score}<br>
+                    <strong>Predicted Outcome:</strong> ${data.predicted_outcome}<br>
+                    <strong>Win Probability:</strong> ${data.win_probability}%
+                `;
+            } else {
+                resultDiv.innerHTML = `
+                    <strong>Predicted Outcome:</strong> ${data.predicted_outcome}<br>
+                    <strong>Win Probability:</strong> ${data.win_probability}%
+                `;
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            document.getElementById('prediction-result').innerHTML = 'There was an error processing your request.';
+        });
+    });
+});
+
+    </script>
+</head>
+<body>
+    <h1>Cricket Match Prediction</h1>
+
+    <div class="container">
+        <!-- Left Column: Batting Team Runs and Ratios -->
+        <div class="left-column">
+            <div id="batting_team_scorers"></div>
+            <div id="batting_team_ratios"></div>
+        </div>
+    
+        <!-- Middle Column: Prediction Form -->
+        <div class="middle-column">
+            <form id="prediction-form">
+                <label for="match_type">Match Type:</label>
+        <select id="match_type" name="match_type" onchange="updateFormFields()" required>
+            <option value="">Select Match Type</option>
+            <option value="ODI">ODI</option>
+            <option value="T20">T20</option>
+        </select><br>
+
+        <label for="innings_choice">Innings Choice:</label>
+        <select id="innings_choice" name="innings_choice" onchange="updateFormFields()" required>
+            <option value="">Select Option</option>
+            <option value="batting_first">Batting First</option>
+            <option value="chasing">Chasing</option>
+        </select><br>
+
+        <div id="common_fields" class="hidden">
+            <label for="batting_team">Batting Team:</label>
+            <select id="batting_team" name="batting_team" class="team_dropdown" required></select><br>
+
+            <label for="bowling_team">Bowling Team:</label>
+            <select id="bowling_team" name="bowling_team" class="team_dropdown" required></select><br>
+
+            <label for="city">City:</label>
+            <select id="city" name="city" required></select><br>
+
+            <div id="target_score_field" class="hidden">
+                <label for="target_score">Target Score:</label>
+                <input type="number" id="target_score" name="target_score"><br>
+            </div>
+
+            <label for="balls_left">Balls Left:</label>
+            <select id="balls_left" name="balls_left" required></select><br>
+
+            <label for="wickets_left">Wickets Left:</label>
+            <select id="wickets_left" name="wickets_left" required></select><br>
+
+            <label for="runs">Current Runs:</label>
+            <input type="number" id="runs" name="runs" required><br>
+
+            <label for="run_rate">Current Run Rate:</label>
+            <input type="text" id="run_rate" name="run_rate" readonly><br>
+        </div>
+
+        <button type="submit">Predict</button>
+    </form>
+            </form>
+            <div id="prediction-result"></div>
+        </div>
+    
+        <!-- Right Column: Bowling Team Runs and Ratios -->
+        <div class="right-column">
+            <div id="bowling_team_scorers"></div>
+            <div id="bowling_team_ratios"></div>
+        </div>
+    </div>
+    
+</body>
+</html>

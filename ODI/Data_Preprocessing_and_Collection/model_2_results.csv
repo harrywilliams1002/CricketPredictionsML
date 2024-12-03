@@ -1,0 +1,424 @@
+match_id,final_score,batting_team,bowling_team,city,actual_outcome,predicted_outcome,batting_team_win_prob
+596,268,India,West Indies,Manchester,1,1,0.7283333333333333
+1992,414,India,Sri Lanka,Rajkot,1,1,0.98
+422,272,South Africa,Zimbabwe,Canterbury,1,1,0.88
+289,354,India,Australia,Nagpur,1,1,0.57
+196,361,South Africa,Australia,Johannesburg,1,1,0.97
+792,337,South Africa,Ireland,Potchefstroom,1,1,0.81
+856,232,Zimbabwe,West Indies,Bulawayo,0,1,0.63
+1474,296,Australia,England,Nottingham,1,1,0.84
+1975,279,South Africa,West Indies,Durban,1,1,0.82
+1627,318,New Zealand,England,Perth,1,1,0.715
+999,202,England,Pakistan,Cardiff,0,0,0.14
+973,200,India,England,Perth,0,0,0.28
+1677,154,South Africa,Bangladesh,Centurion,0,0,0.21
+1574,418,England,West Indies,St George's,1,1,0.78
+2048,112,Zimbabwe,Thailand,Bangkok,0,0,0.0
+70,213,Sri Lanka,India,Mirpur,0,0,0.19
+1723,249,Ireland,Canada,Dublin,1,1,0.67
+1185,188,South Africa,West Indies,Guyana,0,0,0.46
+1772,229,Australia,England,Melbourne,1,0,0.46
+2101,270,Australia,England,Leeds,1,1,0.69
+1336,187,India,England,Southampton,0,0,0.21
+1406,271,England,Pakistan,Southampton,0,1,0.83
+324,188,Sri Lanka,New Zealand,Christchurch,0,0,0.03
+1466,258,India,Sri Lanka,Colombo,1,1,0.84
+211,195,Pakistan,Zimbabwe,Harare,1,0,0.38
+1055,288,Bangladesh,New Zealand,Hamilton,0,0,0.47
+1448,182,West Indies,India,Perth,0,0,0.01
+1907,235,South Africa,West Indies,East London,1,0,0.47
+1689,336,South Africa,Kenya,Bloemfontein,1,1,0.89
+1697,351,South Africa,Zimbabwe,Bloemfontein,1,1,0.94
+1414,216,Bangladesh,Zimbabwe,Dhaka,1,0,0.46
+787,215,Sri Lanka,India,Kolkata,0,0,0.11
+408,258,New Zealand,Australia,Pune,0,0,0.44
+254,338,India,England,Bangalore,0,1,0.7033333333333335
+1521,277,Bangladesh,England,Chittagong,0,0,0.36333333333333334
+630,290,Australia,India,Hyderabad,1,1,0.68
+869,303,New Zealand,Pakistan,Abu Dhabi,1,1,0.97
+486,336,Australia,New Zealand,Auckland,0,1,0.64
+554,205,Papua New Guinea,Scotland,Aberdeen,0,0,0.19
+1995,367,Australia,Pakistan,Bengaluru,1,1,0.84
+237,260,Namibia,Papua New Guinea,Lauderhill,1,1,0.92
+1872,183,Bangladesh,Zimbabwe,Harare,0,0,0.33
+1645,251,England,Sri Lanka,Southampton,1,1,0.63
+290,214,Sri Lanka,Australia,Melbourne,0,0,0.16
+479,274,Sri Lanka,India,Ahmedabad,0,1,0.53
+583,177,Pakistan,Bangladesh,Chittagong,1,0,0.09
+543,307,Sri Lanka,South Africa,Colombo,1,1,0.96
+1170,274,India,South Africa,Christchurch,0,1,0.62
+1176,147,Sri Lanka,Bangladesh,Mirpur,0,0,0.07
+275,235,South Africa,Sri Lanka,Dambulla,0,1,0.62
+29,204,West Indies,England,Manchester,0,0,0.1
+1202,244,Sri Lanka,India,Vadodara,0,0,0.3
+281,198,Oman,Canada,King City,0,0,0.29
+184,214,Australia,England,London,0,1,0.61
+1628,256,South Africa,England,Johannesburg,0,0,0.26
+233,168,Australia,New Zealand,Brisbane,0,0,0.29
+1616,401,India,South Africa,Gwalior,1,1,0.92
+741,268,Australia,Pakistan,Brisbane,1,1,0.84
+1619,249,Australia,England,London,1,1,0.8
+1713,207,West Indies,New Zealand,Mumbai,1,0,0.24
+1360,257,Sri Lanka,England,London,1,0,0.4
+1639,277,Australia,England,London,1,1,0.94
+812,252,Zimbabwe,New Zealand,Bloemfontein,0,0,0.34
+2031,115,Sri Lanka,Australia,Brisbane,0,0,0.01
+862,84,Ireland,West Indies,Dublin,0,0,0.02
+67,241,West Indies,New Zealand,St Kitts,1,1,0.51
+128,259,Australia,England,Bristol,1,0,0.29
+544,154,Thailand,Zimbabwe,Bangkok,1,0,0.27
+994,194,India,Australia,Brisbane,0,0,0.29
+51,201,South Africa,West Indies,Barbados,1,0,0.31
+1420,226,Bangladesh,New Zealand,Christchurch,0,0,0.16
+1679,277,Oman,Papua New Guinea,Dubai,1,1,0.91
+607,209,Zimbabwe,Bangladesh,Mirpur,1,1,0.58
+1896,177,India,South Africa,Lucknow,0,0,0.08
+1973,122,Ireland,Sri Lanka,Belfast,0,0,0.06
+299,244,Zimbabwe,Pakistan,Faisalabad,0,0,0.2
+2111,219,Papua New Guinea,Namibia,Lauderhill,0,0,0.33
+231,308,Pakistan,West Indies,Guyana,0,1,0.99
+367,273,England,Sri Lanka,Leicester,1,1,0.51
+1740,123,England,New Zealand,Wellington,0,0,0.03
+307,112,West Indies,Pakistan,Mirpur,0,0,0.19
+1920,278,Pakistan,Zimbabwe,Sharjah,1,0,0.5
+997,317,Australia,India,Nagpur,1,0,0.31
+495,174,Bermuda,Kenya,Nairobi,0,0,0.02
+838,190,New Zealand,West Indies,Bridgetown,0,0,0.33
+613,306,India,New Zealand,Auckland,0,1,0.54
+111,247,Australia,Sri Lanka,Hobart,1,0,0.5
+1728,259,Bangladesh,Sri Lanka,Hambantota,0,0,0.48
+1314,281,South Africa,New Zealand,Auckland,0,1,0.67
+251,237,India,West Indies,Ahmedabad,1,1,0.56
+298,230,Australia,India,Melbourne,0,0,0.41
+1892,228,Zimbabwe,South Africa,Paarl,0,0,0.09
+1486,256,Bangladesh,Zimbabwe,Mirpur,1,1,0.89
+120,268,Australia,Sri Lanka,Colombo,1,1,0.74
+1557,321,West Indies,India,Kochi,1,0,0.32
+1705,353,Pakistan,England,Karachi,1,1,0.555
+923,167,Bermuda,Kenya,Nairobi,0,0,0.06
+109,209,England,West Indies,North Sound,0,0,0.38
+1225,303,Australia,South Africa,Johannesburg,1,1,0.71
+1701,73,Pakistan,Zimbabwe,Bulawayo,0,0,0.31
+1285,97,Bangladesh,Australia,Dhaka,0,0,0.02
+1810,269,West Indies,Pakistan,Karachi,1,1,0.89
+564,283,South Africa,New Zealand,Durban,1,1,0.79
+1089,193,Sri Lanka,Zimbabwe,Sharjah,0,0,0.24
+2105,250,South Africa,India,Centurion,1,0,0.35
+2006,286,Sri Lanka,Australia,Hambantota,1,0,0.43
+482,312,Zimbabwe,Bangladesh,Bulawayo,0,1,0.83
+420,252,Canada,Scotland,Benoni,1,0,0.37
+2010,274,South Africa,Sri Lanka,Potchefstroom,1,1,0.8
+1978,266,New Zealand,West Indies,London,1,1,0.63
+1083,269,West Indies,England,Antigua,1,1,0.5433333333333333
+100,35,United States of America,Nepal,Kirtipur,0,0,0.11
+1237,148,India,Australia,Vadodara,0,0,0.37
+937,230,South Africa,Bangladesh,Kimberley,1,1,0.59
+1034,240,Pakistan,South Africa,Cape Town,0,0,0.18
+932,195,Ireland,South Africa,Dublin,0,0,0.23
+978,318,Sri Lanka,England,Manchester,1,1,0.7333333333333334
+1480,260,Pakistan,Sri Lanka,Mirpur,0,1,0.59
+1541,130,New Zealand,South Africa,Paarl,0,0,0.07
+56,217,Thailand,Zimbabwe,Bangkok,1,1,0.56
+1290,349,New Zealand,England,Nottingham,0,1,0.77
+1977,180,Sri Lanka,Bangladesh,Mirpur,1,0,0.09
+1228,123,Bangladesh,Pakistan,Karachi,0,0,0.19
+2110,269,England,Australia,Birmingham,1,0,0.27
+552,251,Bangladesh,South Africa,Guyana,1,0,0.47
+1112,266,India,Pakistan,Kandy,0,1,0.83
+948,117,England,West Indies,Barbados,0,0,0.25
+1380,185,Sri Lanka,England,Chester-le-Street,0,0,0.19
+686,262,England,South Africa,Johannesburg,0,1,0.51
+1138,201,Sri Lanka,India,Trinidad,0,0,0.29
+1974,123,New Zealand,Bangladesh,Hamilton,0,0,0.07
+429,257,Sri Lanka,India,Rajkot,1,0,0.37
+1292,265,South Africa,India,Port Elizabeth,1,1,0.62
+1518,285,India,Sri Lanka,Ahmedabad,0,1,0.6066666666666667
+1667,286,Ireland,Scotland,Bulawayo,0,1,0.72
+1320,223,Australia,England,Birmingham,0,0,0.17
+1404,297,South Africa,West Indies,Centurion,0,1,0.79
+1125,298,Zimbabwe,Bangladesh,Harare,0,1,0.63
+485,284,England,Pakistan,Kuala Lumpur,1,1,0.77
+1067,269,Ireland,United Arab Emirates,Abu Dhabi,0,1,0.95
+1442,246,New Zealand,Australia,Hamilton,1,1,0.57
+1159,270,England,New Zealand,Brisbane,1,1,0.53
+530,37,England,South Africa,Cardiff,0,0,0.23
+427,182,England,South Africa,Nottingham,0,0,0.1
+69,92,India,New Zealand,Hamilton,0,0,0.05
+368,179,Sri Lanka,India,Hobart,0,0,0.02
+1649,138,Sri Lanka,New Zealand,Cardiff,0,0,0.05
+1929,176,United Arab Emirates,Nepal,Kirtipur,0,0,0.19
+519,292,India,England,Indore,1,1,0.7383333333333334
+668,250,Pakistan,India,Kolkata,1,0,0.22
+579,228,Sri Lanka,West Indies,Cape Town,1,0,0.39
+1245,198,Australia,Pakistan,Abu Dhabi,1,0,0.47
+247,250,Pakistan,Bangladesh,Mirpur,0,1,0.68
+1949,289,Australia,New Zealand,Hobart,1,1,0.85
+611,298,Australia,England,Southampton,1,1,0.9
+670,241,Ireland,Scotland,Dublin,0,0,0.48
+1359,231,United States of America,Namibia,Windhoek,1,0,0.48
+819,248,Pakistan,Ireland,Dublin,1,0,0.39
+1800,355,Sri Lanka,United Arab Emirates,Bulawayo,1,1,0.97
+707,284,South Africa,Bangladesh,Mirpur,1,1,0.85
+240,280,South Africa,India,Durban,1,1,0.78
+1953,381,West Indies,Ireland,Dublin,1,1,0.83
+480,278,Nepal,Papua New Guinea,Kirtipur,0,1,0.84
+1910,310,United States of America,Scotland,Pearland,1,1,0.58
+1064,198,Kenya,Canada,Delhi,0,0,0.39
+321,234,South Africa,Pakistan,Birmingham,1,0,0.25
+1656,315,England,Australia,Nottingham,0,0,0.5
+1841,230,Hong Kong,Papua New Guinea,Dubai,1,1,0.81
+1858,259,South Africa,Pakistan,Abu Dhabi,1,1,0.77
+212,125,England,India,Jaipur,0,0,0.1
+239,359,Australia,India,Sydney,1,1,0.84
+124,327,Ireland,West Indies,Dublin,0,1,0.87
+494,174,Bangladesh,New Zealand,Mirpur,1,0,0.23
+1609,285,West Indies,Pakistan,Leicester,1,0,0.4
+374,248,Sri Lanka,India,Colombo,1,0,0.29
+1120,139,Sri Lanka,South Africa,Potchefstroom,0,0,0.0
+1403,233,Sri Lanka,Netherlands,Harare,1,1,0.51
+350,189,Sri Lanka,South Africa,Port Elizabeth,0,0,0.01
+416,180,Netherlands,Scotland,Aberdeen,0,0,0.12
+65,287,South Africa,England,Southampton,1,0,0.5
+1347,289,New Zealand,South Africa,Christchurch,1,1,0.74
+514,247,Bangladesh,India,Mirpur,0,0,0.14
+634,231,Bangladesh,Zimbabwe,Jaipur,1,0,0.5
+1169,160,South Africa,West Indies,Johannesburg,0,0,0.2
+1599,294,England,India,Leeds,1,0,0.5
+297,65,United States of America,Australia,Southampton,0,0,0.03
+907,352,India,Australia,London,1,1,0.58
+1681,329,Australia,South Africa,Canberra,1,1,0.96
+617,361,South Africa,West Indies,Centurion,1,1,0.94
+1596,286,Sri Lanka,India,Colombo,0,0,0.36
+1351,169,India,England,Sydney,0,0,0.36
+1421,191,South Africa,India,London,0,0,0.22
+1157,269,West Indies,Ireland,Kingston,1,1,0.62
+582,170,India,Australia,Guwahati,0,0,0.22
+694,325,South Africa,Australia,Manchester,1,1,0.85
+974,202,Ireland,West Indies,Jamaica,0,0,0.15
+529,176,Namibia,United States of America,Port Moresby,1,0,0.36
+1590,157,South Africa,New Zealand,Hamilton,0,0,0.04
+755,141,Australia,Zimbabwe,Townsville,0,0,0.29
+618,219,Scotland,Ireland,Dubai,0,0,0.28
+1584,173,Bangladesh,South Africa,Mirpur,0,0,0.02
+1220,124,Pakistan,New Zealand,Wellington,0,0,0.0
+1755,233,West Indies,Pakistan,Guyana,0,0,0.37
+2024,97,New Zealand,Australia,Faridabad,0,0,0.03
+96,148,Australia,New Zealand,Wellington,0,0,0.46
+2083,265,India,West Indies,Ahmedabad,1,1,0.5566666666666666
+1807,251,New Zealand,Pakistan,Christchurch,0,1,0.58
+1786,261,West Indies,Bangladesh,Dublin,0,0,0.27
+188,223,India,West Indies,Ahmedabad,0,1,0.5633333333333332
+1908,235,Sri Lanka,Bangladesh,Chattogram,0,1,0.51
+1340,260,New Zealand,India,Hamilton,1,0,0.26
+925,288,India,West Indies,Visakhapatnam,0,1,0.8450000000000002
+952,225,Kenya,India,Cape Town,0,0,0.11
+1103,266,West Indies,Zimbabwe,Trinidad,1,0,0.28
+1894,223,England,South Africa,Manchester,0,0,0.32
+1912,308,India,Pakistan,Karachi,0,1,0.77
+1784,157,Bangladesh,New Zealand,Napier,0,0,0.03
+1249,161,Zimbabwe,India,Harare,0,0,0.03
+1658,208,Sri Lanka,West Indies,Jamaica,0,0,0.31
+210,165,Pakistan,India,Birmingham,0,0,0.13
+571,373,England,South Africa,Bristol,1,1,0.96
+1761,331,England,South Africa,Hove,1,1,0.91
+445,154,England,South Africa,Barbados,0,0,0.14
+966,123,Oman,Scotland,Dundee,0,0,0.06
+1712,255,New Zealand,Pakistan,Karachi,0,1,0.82
+605,160,West Indies,South Africa,Paarl,0,0,0.05
+1501,249,Australia,Bangladesh,Cardiff,0,1,0.73
+781,322,Pakistan,Bangladesh,Lahore,1,1,0.95
+788,256,England,Australia,Hove,1,0,0.32
+220,271,New Zealand,Pakistan,Wellington,1,1,0.83
+135,260,Bangladesh,Sri Lanka,Mirpur,0,0,0.36
+1106,138,England,Australia,Manchester,0,0,0.27
+99,330,Bangladesh,South Africa,London,1,1,0.64
+1114,273,New Zealand,South Africa,Paarl,1,1,0.64
+354,194,United Arab Emirates,Canada,Dubai,0,0,0.2
+450,317,Sri Lanka,England,Colombo,1,1,0.95
+458,160,Bangladesh,South Africa,Mirpur,0,0,0.03
+674,217,England,West Indies,London,0,0,0.32
+1801,238,Australia,England,Taunton,0,0,0.41
+2018,226,England,India,Faridabad,0,0,0.15
+1343,229,England,India,London,0,1,0.73
+1444,324,Australia,West Indies,Brisbane,1,1,0.97
+1457,243,England,Pakistan,Derby,1,1,0.75
+1379,156,New Zealand,Sri Lanka,Dambulla,1,0,0.05
+13,313,Australia,India,Ranchi,1,0,0.44
+585,260,Kenya,Scotland,Christchurch,0,0,0.5
+719,299,New Zealand,Pakistan,Karachi,1,1,0.82
+581,270,England,South Africa,Bloemfontein,0,0,0.42
+259,314,Bangladesh,South Africa,Centurion,1,1,0.53
+1208,204,West Indies,Australia,Taunton,0,0,0.16
+1361,269,Australia,Pakistan,London,1,1,0.94
+1283,313,Australia,Pakistan,Lahore,1,1,0.95
+1374,177,West Indies,New Zealand,Antigua,0,0,0.05
+1432,240,India,Australia,Ahmedabad,0,0,0.4
+383,268,England,Sri Lanka,Manchester,1,1,0.5533333333333332
+1124,227,Australia,England,Cardiff,0,0,0.15
+342,316,Pakistan,Sri Lanka,Colombo,1,1,0.9
+1835,300,Scotland,United States of America,Pearland,1,1,0.75
+1517,221,Oman,West Indies,Harare,0,1,0.63
+1335,208,Zimbabwe,Sri Lanka,Colombo,0,0,0.03
+1357,219,New Zealand,Sri Lanka,Grenada,0,0,0.38
+1362,286,Pakistan,Kenya,Sharjah,1,1,0.63
+1814,266,India,South Africa,Lucknow,0,1,0.53
+949,236,Bangladesh,New Zealand,Nelson,0,0,0.38
+2035,198,Canada,United States of America,Windhoek,1,0,0.17
+1459,112,Sri Lanka,West Indies,Trinidad,0,0,0.28
+941,270,Pakistan,South Africa,Chennai,0,1,0.7983333333333333
+979,91,Ireland,Australia,Barbados,0,0,0.07
+1418,278,West Indies,South Africa,Cape Town,1,0,0.46
+1901,195,Netherlands,Ireland,Utrecht,1,0,0.11
+1875,275,United States of America,Canada,Rotterdam,1,1,0.79
+1368,241,Pakistan,England,London,1,0,0.05
+1053,220,England,Australia,London,0,0,0.18
+121,244,Bangladesh,New Zealand,London,0,0,0.32
+332,191,South Africa,Pakistan,Centurion,0,0,0.34
+1310,246,Zimbabwe,Australia,Bulawayo,0,0,0.23
+306,271,Australia,New Zealand,Mount Maunganui,1,1,0.81
+1846,242,Sri Lanka,India,Bulawayo,0,0,0.46
+1924,245,New Zealand,Australia,Hamilton,0,1,0.56
+1702,211,New Zealand,England,Bristol,0,0,0.48
+115,209,Zimbabwe,Bangladesh,Bulawayo,0,0,0.08
+752,370,India,Bangladesh,Mirpur,1,1,0.95
+1857,219,South Africa,Sri Lanka,Ahmedabad,1,1,0.53
+1102,263,India,West Indies,Delhi,1,1,0.7466666666666666
+1822,191,United Arab Emirates,Nepal,Kirtipur,0,0,0.29
+409,232,West Indies,South Africa,East London,1,1,0.59
+938,116,Pakistan,New Zealand,Dambulla,0,0,0.03
+2084,222,Bangladesh,India,Mirpur,0,0,0.11
+693,214,West Indies,Sri Lanka,Colombo,0,0,0.46
+1604,189,Netherlands,India,Delhi,0,0,0.22
+636,269,South Africa,India,Potchefstroom,1,1,0.54
+1933,284,Namibia,Papua New Guinea,Port Moresby,1,1,0.92
+1052,229,West Indies,Ireland,Kingston,0,0,0.29
+886,185,England,Sri Lanka,Colombo,0,0,0.1
+1481,262,Australia,Zimbabwe,Ahmedabad,1,1,0.6
+1983,152,Zimbabwe,South Africa,East London,0,0,0.07
+1047,256,Sri Lanka,Pakistan,Colombo,0,1,0.63
+916,283,West Indies,India,Pune,1,0,0.33
+316,260,Australia,India,Ahmedabad,0,1,0.68
+527,309,South Africa,Zimbabwe,Bulawayo,1,1,0.94
+1941,222,India,Australia,Melbourne,0,0,0.21
+650,271,New Zealand,India,Hamilton,1,0,0.16
+678,110,England,India,London,0,0,0.3
+1735,187,Sri Lanka,England,Hambantota,0,0,0.03
+1519,216,West Indies,Pakistan,Dubai,1,0,0.21
+1746,223,New Zealand,England,Mount Maunganui,0,0,0.09
+1927,91,Bangladesh,Pakistan,Mirpur,0,0,0.07
+1010,250,India,Australia,Nagpur,1,0,0.33
+1763,337,West Indies,Zimbabwe,Grenada,1,1,0.87
+1134,168,New Zealand,West Indies,North Sound,0,0,0.16
+1137,297,Bangladesh,West Indies,Chattogram,1,1,0.57
+836,298,India,South Africa,Jaipur,1,1,0.74
+1263,191,Zimbabwe,Bangladesh,Mirpur,0,0,0.05
+63,212,West Indies,England,Southampton,0,0,0.02
+1575,363,India,Sri Lanka,Colombo,1,1,1.0
+944,302,England,Pakistan,Chelmsford,1,1,0.64
+1971,201,Bangladesh,New Zealand,Auckland,0,0,0.1
+1247,262,South Africa,West Indies,Port Elizabeth,0,1,0.6
+1813,254,Namibia,United States of America,Port Moresby,1,1,0.62
+1025,238,Bangladesh,Sri Lanka,Colombo,0,0,0.31
+361,270,Ireland,United Arab Emirates,Dubai,1,1,0.98
+620,353,South Africa,Netherlands,St Kitts,1,1,0.96
+1567,273,Scotland,Oman,Al Amarat,1,1,0.65
+654,283,England,Pakistan,Abu Dhabi,1,1,0.81
+555,280,New Zealand,Pakistan,Wellington,1,1,0.82
+1582,263,United Arab Emirates,Nepal,Kirtipur,1,0,0.28
+599,230,Sri Lanka,India,Margao,0,0,0.04
+507,211,Sri Lanka,England,Colombo,0,1,0.67
+23,284,England,Bangladesh,Chittagong,1,1,0.7
+1004,253,Pakistan,Netherlands,Paarl,1,1,0.63
+198,191,India,Bangladesh,Trinidad,0,0,0.34
+49,308,Pakistan,West Indies,Abu Dhabi,1,1,0.92
+173,123,Sri Lanka,New Zealand,Hambantota,0,0,0.0
+1364,276,New Zealand,West Indies,Christchurch,1,1,0.91
+381,392,India,New Zealand,Christchurch,1,1,0.77
+840,292,Netherlands,England,Nagpur,0,0,0.30333333333333334
+940,213,Australia,India,Kuala Lumpur,1,0,0.2
+1216,226,Sri Lanka,Australia,Grenada,0,0,0.23
+535,270,Australia,West Indies,Kingston,1,1,0.88
+1329,267,India,Sri Lanka,Brisbane,0,1,0.7466666666666667
+71,341,India,West Indies,Vadodara,1,1,0.91
+426,152,West Indies,South Africa,Jamaica,0,0,0.2
+1808,358,South Africa,India,Johannesburg,1,1,0.83
+1753,303,India,Australia,Chandigarh,0,1,0.69
+1080,208,New Zealand,South Africa,Paarl,1,0,0.14
+1764,352,Australia,India,Rajkot,1,1,0.73
+1550,368,England,New Zealand,London,1,1,0.61
+1564,290,Scotland,Namibia,Dundee,1,1,0.84
+1094,324,New Zealand,West Indies,Napier,1,1,0.84
+2001,269,West Indies,Bangladesh,Southampton,1,1,0.56
+849,209,South Africa,New Zealand,Durban,0,0,0.21
+1526,246,Bangladesh,Zimbabwe,Mirpur,1,1,0.75
+387,238,Sri Lanka,India,Colombo,0,1,0.58
+256,236,United Arab Emirates,Oman,Kathmandu,1,0,0.45
+1766,303,Bangladesh,Zimbabwe,Harare,0,0,0.49
+483,242,Australia,India,Nagpur,0,0,0.19
+382,199,Namibia,United States of America,Windhoek,0,0,0.29
+1683,236,Pakistan,Bangladesh,Mirpur,1,1,0.69
+1181,199,Pakistan,Sri Lanka,Dambulla,1,0,0.14
+20,267,England,South Africa,Port Elizabeth,0,1,0.68
+478,168,South Africa,Bangladesh,Chittagong,0,0,0.17
+1272,211,Zimbabwe,Sri Lanka,Bulawayo,0,0,0.12
+1187,83,South Africa,England,Nottingham,0,0,0.03
+619,272,West Indies,England,Ahmedabad,0,1,0.5333333333333333
+1451,270,England,West Indies,Guyana,1,1,0.86
+1672,215,Scotland,Canada,Dubai,0,0,0.43
+1085,274,India,England,Chester-le-Street,0,1,0.525
+1851,358,Australia,Netherlands,St Kitts,1,1,0.97
+1182,71,Bangladesh,South Africa,Kimberley,0,0,0.01
+1121,232,West Indies,Pakistan,Guyana,1,0,0.37
+1323,369,New Zealand,Pakistan,Napier,1,1,0.75
+2042,258,Australia,New Zealand,Sydney,1,1,0.97
+1255,418,India,West Indies,Indore,1,1,0.9
+270,147,England,West Indies,Nottingham,0,0,0.21
+447,204,Netherlands,Thailand,Amstelveen,1,0,0.18
+1970,308,Sri Lanka,South Africa,Colombo,1,1,0.96
+1503,260,England,West Indies,North Sound,1,1,0.79
+1993,228,South Africa,England,Canterbury,0,0,0.14
+1302,125,West Indies,Zimbabwe,Bulawayo,0,0,0.27
+25,275,Sri Lanka,Pakistan,Hambantota,0,1,0.69
+1428,319,Sri Lanka,England,London,1,1,0.79
+78,205,Zimbabwe,Australia,Harare,0,0,0.05
+366,175,Ireland,Canada,Toronto,0,0,0.15
+2079,324,Australia,Pakistan,Kuala Lumpur,1,1,0.93
+32,174,Bangladesh,New Zealand,Antigua,0,0,0.07
+1917,229,Ireland,Pakistan,Dublin,0,0,0.29
+963,203,Australia,England,Hove,0,0,0.44
+1777,281,India,Australia,Derby,1,1,0.73
+1286,242,West Indies,Pakistan,St Lucia,0,0,0.2
+2071,351,India,West Indies,Tarouba,1,1,0.8966666666666666
+163,131,New Zealand,West Indies,Christchurch,1,0,0.12
+203,307,Australia,India,Bangalore,0,1,0.54
+968,264,Bangladesh,India,Birmingham,0,1,0.54
+1211,300,England,Australia,Brisbane,0,0,0.38
+1345,27,West Indies,India,St Lucia,0,0,0.02
+1586,267,Australia,England,Southampton,0,1,0.74
+305,248,United States of America,Zimbabwe,Harare,0,1,0.51
+1338,327,England,Pakistan,Lahore,1,1,0.86
+786,226,Papua New Guinea,Scotland,Al Amarat,0,0,0.27
+2095,142,Kenya,Sri Lanka,Colombo,0,0,0.05
+192,305,Sri Lanka,England,London,0,1,0.79
+649,229,Australia,South Africa,Centurion,0,1,0.58
+1113,89,India,New Zealand,Hamilton,0,0,0.05
+637,290,Sri Lanka,United Arab Emirates,Lahore,1,1,0.92
+440,223,New Zealand,England,Christchurch,0,0,0.06
+432,270,India,Kenya,Durban,1,1,0.785
+1507,229,India,West Indies,Jamaica,0,0,0.33
+218,300,Ireland,New Zealand,Dublin,0,1,0.64
+572,280,Australia,England,Sydney,1,1,0.93
+2078,271,South Africa,Ireland,Abu Dhabi,1,1,0.84
+351,170,United Arab Emirates,Oman,Al Amarat,0,0,0.05
+2089,247,West Indies,Bangladesh,Dublin,0,0,0.37
+1358,254,Australia,South Africa,Port Elizabeth,1,1,0.58
+1876,63,South Africa,Pakistan,Potchefstroom,0,0,0.23
+508,241,Australia,New Zealand,Perth,1,1,0.79
+859,190,India,South Africa,Johannesburg,1,0,0.2
+721,344,Australia,Zimbabwe,Hobart,1,1,0.83
+59,279,South Africa,New Zealand,Hamilton,0,1,0.76
+411,299,Australia,England,Leeds,0,1,0.83
+561,319,New Zealand,Sri Lanka,Mount Maunganui,1,1,0.89
+438,131,New Zealand,Sri Lanka,Hambantota,0,0,0.04
+433,337,Asia XI,Africa XI,Chennai,1,1,0.99
+73,254,Australia,South Africa,Potchefstroom,0,1,0.77
