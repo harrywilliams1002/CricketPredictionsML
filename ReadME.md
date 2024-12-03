@@ -1,6 +1,16 @@
  I have created an application for predicting the scoring and outcomes of cricket matches, given certain scenarios.
 
- The project structure is as follows:
+This mini project involved:
+
+Data Collection and Preprocessing
+
+Feature Selection and Engineering
+
+Model Training and Evaluation
+
+Predictions!
+
+ The file structure is as follows:
 ```
 ├── /CricketScorePredictor
 │   ├── /Flask_App
