@@ -10,7 +10,7 @@ This mini project involved:
 
 ```Predictions!```
 
-```Frontend and backend development```
+```Frontend and Backend Development```
 
  The file structure is as follows:
 ```
